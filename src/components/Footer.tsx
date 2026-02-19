@@ -14,7 +14,14 @@ export function Footer() {
             <img
               src={`${BASE}images/logo.png`}
               alt="Palicar"
-              className="logo-auto mb-3 h-8"
+              className="mb-3 h-8 dark:hidden"
+              width={106}
+              height={32}
+            />
+            <img
+              src={`${BASE}images/logo-white.png`}
+              alt="Palicar"
+              className="mb-3 hidden h-8 dark:block"
               width={106}
               height={32}
             />
