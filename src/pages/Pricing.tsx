@@ -19,8 +19,8 @@ export function Pricing() {
           {/* Inspection */}
           <ScrollReveal>
             <div className="relative flex h-full flex-col overflow-hidden rounded-2xl border-2 border-primary-600 bg-(--surface-card) shadow-lg">
-              <div className="bg-primary-600 px-6 py-4 text-center text-white">
-                <h2 className="text-lg font-bold">{t('pricing.inspection.title')}</h2>
+              <div className="flex min-h-16 items-center justify-center bg-primary-600 px-4 py-3 text-center text-white">
+                <h2 className="text-sm font-bold leading-tight sm:text-base">{t('pricing.inspection.title')}</h2>
               </div>
               <div className="flex flex-1 flex-col p-6">
                 <div className="mb-4 text-center">
@@ -45,8 +45,8 @@ export function Pricing() {
           {/* Consulting */}
           <ScrollReveal delay={0.1}>
             <div className="flex h-full flex-col overflow-hidden rounded-2xl border border-(--border) bg-(--surface-card) transition-all hover:shadow-lg">
-              <div className="bg-(--surface-card) border-b border-(--border) px-6 py-4 text-center">
-                <h2 className="text-lg font-bold">{t('pricing.consulting.title')}</h2>
+              <div className="flex min-h-16 items-center justify-center border-b border-(--border) bg-(--surface-card) px-4 py-3 text-center">
+                <h2 className="text-sm font-bold leading-tight sm:text-base">{t('pricing.consulting.title')}</h2>
               </div>
               <div className="flex flex-1 flex-col p-6">
                 <div className="mb-4 text-center">
@@ -67,8 +67,8 @@ export function Pricing() {
           {/* Search */}
           <ScrollReveal delay={0.2}>
             <div className="flex h-full flex-col overflow-hidden rounded-2xl border border-(--border) bg-(--surface-card) transition-all hover:shadow-lg">
-              <div className="bg-(--surface-card) border-b border-(--border) px-6 py-4 text-center">
-                <h2 className="text-lg font-bold">{t('pricing.search.title')}</h2>
+              <div className="flex min-h-16 items-center justify-center border-b border-(--border) bg-(--surface-card) px-4 py-3 text-center">
+                <h2 className="text-sm font-bold leading-tight sm:text-base">{t('pricing.search.title')}</h2>
               </div>
               <div className="flex flex-1 flex-col p-6">
                 <div className="mb-4 text-center">
@@ -89,27 +89,31 @@ export function Pricing() {
 
         {/* Bundle */}
         <ScrollReveal delay={0.15} className="mt-10">
-          <div className="relative overflow-hidden rounded-2xl border-2 border-accent-400 bg-gradient-to-br from-accent-400/5 to-primary-600/5 shadow-lg">
-            <div className="absolute -right-6 -top-6 h-24 w-24 rounded-full bg-accent-400/10" />
-            <div className="absolute -left-4 -bottom-4 h-16 w-16 rounded-full bg-primary-600/10" />
-            <div className="relative grid items-center gap-6 p-6 sm:p-8 md:grid-cols-2">
-              <div>
-                <span className="mb-2 inline-block rounded-full bg-accent-400/15 px-3 py-1 text-xs font-bold uppercase tracking-wider text-accent-600 dark:text-accent-300">
-                  {t('pricing.bundle.save')}
-                </span>
-                <h2 className="mt-2 text-xl font-bold sm:text-2xl">
-                  {t('pricing.bundle.title')}
-                </h2>
-                <p className="mt-1 text-sm text-(--text-muted)">
+          <div className="overflow-hidden rounded-2xl border border-(--border) bg-(--surface-card) shadow-lg">
+            <div className="flex items-center justify-between gap-4 border-b border-(--border) bg-primary-600 px-6 py-3 sm:px-8">
+              <h2 className="text-base font-bold text-white sm:text-lg">
+                {t('pricing.bundle.title')}
+              </h2>
+              <span className="shrink-0 rounded-full bg-accent-400 px-3 py-1 text-xs font-bold uppercase tracking-wide text-white">
+                {t('pricing.bundle.save')}
+              </span>
+            </div>
+            <div className="grid items-center gap-8 p-6 sm:p-8 md:grid-cols-5">
+              <div className="md:col-span-3">
+                <p className="text-sm text-(--text-muted)">
                   {t('pricing.bundle.subtitle')}
                 </p>
-                <ul className="mt-4 space-y-2">
-                  <li className="flex items-center gap-2 text-sm">
-                    <svg className="h-4 w-4 shrink-0 text-accent-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.5} strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                <ul className="mt-4 space-y-3">
+                  <li className="flex items-center gap-3 text-sm font-medium">
+                    <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-primary-600/10">
+                      <svg className="h-3.5 w-3.5 text-primary-600 dark:text-primary-300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={3} strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                    </span>
                     {t('pricing.bundle.item1')}
                   </li>
-                  <li className="flex items-center gap-2 text-sm">
-                    <svg className="h-4 w-4 shrink-0 text-accent-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.5} strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                  <li className="flex items-center gap-3 text-sm font-medium">
+                    <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-primary-600/10">
+                      <svg className="h-3.5 w-3.5 text-primary-600 dark:text-primary-300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={3} strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+                    </span>
                     {t('pricing.bundle.item2')}
                   </li>
                 </ul>
@@ -117,8 +121,8 @@ export function Pricing() {
                   {t('pricing.bundle.note')}
                 </p>
               </div>
-              <div className="text-center">
-                <p className="text-sm text-(--text-muted) line-through">
+              <div className="text-center md:col-span-2">
+                <p className="text-sm text-(--text-muted) line-through decoration-red-400">
                   {t('pricing.bundle.originalPrice')}
                 </p>
                 <p className="mt-1 text-4xl font-extrabold text-primary-600 dark:text-primary-300">

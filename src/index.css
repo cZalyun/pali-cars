@@ -60,6 +60,10 @@ body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+.dark .logo-auto {
+  filter: brightness(0) invert(1);
+}
+
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
     animation-duration: 0.01ms !important;
