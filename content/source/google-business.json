@@ -1,0 +1,31 @@
+{
+  "source": "Google Business Profile - screenshot provided by owner (Feb 2026)",
+  "url": "https://share.google/s3N6fO12eUGV71NqB",
+  "note": "URL redirects through Google consent; data extracted from owner-provided screenshot",
+  "data": {
+    "name": "Palicar",
+    "rating": 5.0,
+    "reviewCount": 22,
+    "category": "Auto broker in Győr",
+    "address": {
+      "street": "Dunakapu tér",
+      "city": "Győr",
+      "postalCode": "9022",
+      "country": "Hungary"
+    },
+    "phone": "+36 70 977 1360",
+    "phoneLocal": "06 70 977 1360",
+    "hours": {
+      "mondayToFriday": "8:00 – 20:00",
+      "saturdaySunday": "10:00 – 20:00"
+    },
+    "mapLocation": "Near Bástya u. / Apáca u. intersection, Győr",
+    "confirmedByBusiness": "~12 weeks prior to Feb 2026"
+  },
+  "consistencyCheck": {
+    "addressMatch": true,
+    "phoneMatch": true,
+    "hoursMatch": true,
+    "discrepancies": "None"
+  }
+}

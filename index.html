@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="hu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Palicar – Független használtautó átvizsgálás és szaktanácsadás Győrben és országosan. Independent used car inspection and consulting." />
+    <meta name="theme-color" content="#1e3a5f" />
+
+    <meta property="og:title" content="Palicar – Használtautó átvizsgálás" />
+    <meta property="og:description" content="Független használtautó átvizsgálás és szaktanácsadás Győrben és országosan." />
+    <meta property="og:image" content="/pali-cars/images/logo-square.png" />
+    <meta property="og:type" content="website" />
+
+    <link rel="icon" type="image/png" href="/pali-cars/images/logo-square.png" />
+    <link rel="apple-touch-icon" href="/pali-cars/images/logo-square.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+    <title>Palicar – Használtautó átvizsgálás Győr</title>
+
+    <script>
+      (function() {
+        const theme = localStorage.getItem('palicar-theme');
+        if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+          document.documentElement.classList.add('dark');
+        }
+      })();
+    </script>
+  </head>
+  <body class="antialiased">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

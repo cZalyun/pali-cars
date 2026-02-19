@@ -1,0 +1,173 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Independent Used Car Inspection & Expert Consulting",
+    "subtitle": "In Győr and nationwide across Hungary",
+    "cta": "Get in Touch",
+    "trustBadge": "Google Rating",
+    "reviews": "reviews"
+  },
+  "services": {
+    "sectionTitle": "How can I help you?",
+    "pageTitle": "What can you count on me for?",
+    "pageSubtitle": "If you feel a bit lost in the process",
+    "cta": "Get in Touch",
+    "inspectionTitle": "Vehicle Condition Assessment – In Győr and Beyond",
+    "inspection": {
+      "title": "On-site Car Inspection",
+      "description": "Flexible on-location condition assessment:",
+      "items": [
+        "Body and chassis inspection",
+        "Engine bay examination",
+        "Instrument-based diagnostics",
+        "Interior inspection",
+        "Test drive",
+        "Documentation"
+      ]
+    },
+    "search": {
+      "title": "Car Search & Listing Monitoring",
+      "description": "If you don't know yet, or aren't sure what you want to buy. Brand and model consulting from an expert perspective.",
+      "longDescription": "Hundreds or thousands of cars are available in the current used car market per model. Yet very few of them represent good value for money and truly reflect reality.\nWith my methods and experience, I search the used car market quickly and efficiently, helping to filter out unreliable sellers even before the inspection phase. This way, we don't waste money or time inspecting poor potential vehicles."
+    },
+    "consulting": {
+      "title": "Pre-Purchase Consulting",
+      "description": "Close monitoring of used car and other automotive portals. To find the best possible specimen for you.",
+      "longDescription": "If you want to get the best out of a given budget, after assessing your needs I'll recommend a suitable model for you.\nMy recommendations are based on facts and technical insights, supported and backed by experience. I suggest models with an objective and rational approach, and I can also help you select the right specimen."
+    },
+    "exterior": {
+      "title": "Body, Chassis & Exterior Assessment",
+      "items": [
+        "Paint thickness measurement",
+        "Damage and scratch inspection",
+        "Chassis and sill inspection",
+        "Suspension and brake assessment",
+        "Tire visual inspection"
+      ]
+    },
+    "interior": {
+      "title": "Interior Inspection",
+      "items": [
+        "Seat and upholstery check",
+        "Damage and scratch inspection",
+        "Extras and function testing",
+        "Audio and display testing",
+        "Equipment level verification"
+      ]
+    },
+    "engine": {
+      "title": "Engine Bay Examination",
+      "items": [
+        "Leak and fluid inspection",
+        "Signs of repair inspection",
+        "Rubber and plastic component check",
+        "Corrosion inspection",
+        "AC system and radiator check"
+      ]
+    },
+    "testDrive": {
+      "title": "Test Drive",
+      "items": [
+        "Driving characteristics assessment",
+        "Engine and drivetrain testing",
+        "Suspension and brake system testing",
+        "Live data monitoring during drive cycle",
+        "Operational anomaly detection"
+      ]
+    },
+    "diagnostics": {
+      "title": "Instrument-Based Diagnostics",
+      "items": [
+        "Fault code reading / error memory check",
+        "Latest / cleared fault code examination",
+        "Mileage verification",
+        "Live data monitoring",
+        "High-voltage battery value readout"
+      ]
+    },
+    "documentation": {
+      "title": "Documentation & Summary",
+      "items": [
+        "Inspection summary",
+        "Photos and videos of the vehicle",
+        "Presentation of potential issues to the buyer",
+        "Buyer representation in negotiations",
+        "Full assistance with the purchase transaction"
+      ]
+    }
+  },
+  "pricing": {
+    "title": "Pricing",
+    "inspection": {
+      "title": "Vehicle Condition Assessment",
+      "local": "In Győr",
+      "localPrice": "29,000 HUF / car",
+      "remote": "At a different location",
+      "remotePrice": "+50 HUF / km",
+      "note": "Discounted rates available for multiple vehicle inspections on the same occasion, with individual pricing."
+    },
+    "consulting": {
+      "title": "Pre-Purchase Consulting",
+      "subtitle": "Depending on needs",
+      "price": "10,900 – 14,900 HUF",
+      "note": "Applicable to multiple vehicles and occasions.\nIf you change your mind about the model over time, there's no additional charge — I'll recommend another one."
+    },
+    "search": {
+      "title": "Car Search & Listing Monitoring",
+      "subtitle": "One-time fee",
+      "price": "14,900 HUF",
+      "note": "Applicable to multiple vehicles.\nValid until a chosen vehicle is purchased, whether it takes a week or several months."
+    },
+    "viewServices": "Services"
+  },
+  "about": {
+    "title": "Who is Palicar?",
+    "shortTitle": "About Me",
+    "bio1": "I'm Dániel Barla-Szabó, a car purchase expert and calibration engineer.",
+    "bio2": "I've been passionate about vehicles and their technical solutions since childhood. I spend my free time developing my hobby car and on the race track.",
+    "bio3": "After completing my mechanical technician diploma, I continued my studies at Széchenyi István University as a vehicle engineer, where I earned my bachelor's degree in internal combustion engines and my master's degree in electric vehicle drivetrains. Thanks to this, I have significant, up-to-date technical knowledge in both traditional combustion engines and electric vehicles.",
+    "bio4": "I have in-depth knowledge of vehicle technical solutions, their complex understanding, and problem identification — essential for thorough car inspections.",
+    "bio5": "Working in the automotive industry for five years and counting, I've gained extensive experience in automotive trends, manufacturer specifics, and their associated risks.",
+    "shortBio": "I'm Dániel Barla-Szabó, a car purchase expert.\nI've been passionate about vehicles and their technical solutions since childhood. I spend my free time developing my hobby car and on the race track.\nAs a certified vehicle engineer, I have significant knowledge of vehicle technical solutions and their complex understanding. I completed my studies at Széchenyi István University, mastering expertise in both combustion and electric vehicles.\nWorking in the automotive industry for five years and counting, I've gained extensive experience in automotive trends, manufacturer specifics, and their associated risks.",
+    "readMore": "About Me"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "On-site car inspection, condition assessment and purchase consulting",
+    "address": "9022 Győr, Dunakapu tér",
+    "country": "Hungary",
+    "phone": "+36 70/977-1360",
+    "email": "barla.dani@gmail.com",
+    "hoursTitle": "Opening Hours",
+    "weekdays": "Monday – Friday",
+    "weekdayHours": "8:00 – 20:00",
+    "weekends": "Saturday – Sunday",
+    "weekendHours": "10:00 – 20:00",
+    "mapLink": "Get Directions",
+    "formTitle": "Send me a message!",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "formSend": "Send",
+    "formNote": "The message will be sent through your email client."
+  },
+  "footer": {
+    "tagline": "On-site car inspection, condition assessment and purchase consulting",
+    "rights": "All rights reserved."
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "language": {
+    "hu": "Magyar",
+    "de": "Deutsch",
+    "en": "English"
+  }
+}
