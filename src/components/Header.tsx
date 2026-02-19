@@ -31,7 +31,7 @@ export function Header() {
             height={36}
           />
           <img
-            src={`${BASE}images/logo-white.png`}
+            src={`${BASE}images/logo-dark.png`}
             alt="Palicar"
             className="hidden h-9 dark:block"
             width={120}

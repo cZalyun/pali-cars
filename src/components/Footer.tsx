@@ -19,7 +19,7 @@ export function Footer() {
               height={32}
             />
             <img
-              src={`${BASE}images/logo-white.png`}
+              src={`${BASE}images/logo-dark.png`}
               alt="Palicar"
               className="mb-3 hidden h-8 dark:block"
               width={106}
