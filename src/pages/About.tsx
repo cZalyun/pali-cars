@@ -21,17 +21,9 @@ export function About() {
         <div className="grid items-start gap-12 lg:grid-cols-5">
           <ScrollReveal className="lg:col-span-2">
             <img
-              src={`${BASE}images/portrait-car.jpg`}
-              alt="Barla-Szabó Dániel"
-              className="w-full rounded-2xl object-cover shadow-lg"
-              loading="lazy"
-              width={600}
-              height={800}
-            />
-            <img
               src={`${BASE}images/portrait-arms-crossed.jpg`}
               alt="Barla-Szabó Dániel"
-              className="mt-6 w-full rounded-2xl object-cover shadow-lg"
+              className="w-full rounded-2xl object-cover shadow-lg"
               loading="lazy"
               width={600}
               height={800}

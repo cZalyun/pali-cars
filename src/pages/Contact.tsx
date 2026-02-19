@@ -39,7 +39,7 @@ export function Contact() {
             <div className="space-y-8">
               {/* Google Rating */}
               <a
-                href="https://share.google/s3N6fO12eUGV71NqB"
+                href="https://www.google.com/search?sa=X&sca_esv=529d083b40021c7f&hl=en-HU&sxsrf=ANbL-n6bGHATrNBJI6XHee27_LwaePiyZw:1771539476848&q=Palicar+Reviews&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxIxNDU3Mje0MDIyNjMxszA2NTUwNt7AyPiKkT8gMSczObFIISi1LDO1vHgRK7oIAFeNPFY_AAAA&rldimm=15727182236468355033&tbm=lcl&ved=2ahUKEwijmOTpyuaSAxXsFhAIHQrbLwsQ9fQKegQIQxAG&biw=960&bih=836&dpr=1#lkt=LocalPoiReviews"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 rounded-xl border border-(--border) bg-(--surface-card) p-4 transition-all hover:border-accent-400 hover:shadow-md"
