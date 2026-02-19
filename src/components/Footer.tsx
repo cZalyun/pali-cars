@@ -1,15 +1,6 @@
-import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 
 const BASE = import.meta.env.BASE_URL;
-
-const NAV_ITEMS = [
-  { path: '/', key: 'home' },
-  { path: '/services', key: 'services' },
-  { path: '/pricing', key: 'pricing' },
-  { path: '/about', key: 'about' },
-  { path: '/contact', key: 'contact' },
-] as const;
 
 export function Footer() {
   const { t } = useTranslation();
@@ -18,12 +9,19 @@ export function Footer() {
   return (
     <footer className="border-t border-(--border) bg-(--surface-card)">
       <div className="mx-auto max-w-6xl px-4 py-12">
-        <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid gap-8 sm:grid-cols-2">
           <div>
             <img
               src={`${BASE}images/logo.png`}
               alt="Palicar"
-              className="mb-3 h-8 dark:brightness-0 dark:invert"
+              className="mb-3 h-8 dark:hidden"
+              width={106}
+              height={32}
+            />
+            <img
+              src={`${BASE}images/logo-white.png`}
+              alt="Palicar"
+              className="mb-3 hidden h-8 dark:block"
               width={106}
               height={32}
             />
@@ -54,22 +52,6 @@ export function Footer() {
             </address>
           </div>
 
-          <div>
-            <h3 className="mb-3 text-sm font-semibold uppercase tracking-wider text-(--text-muted)">
-              {t('nav.home')}
-            </h3>
-            <nav className="space-y-1" aria-label="Footer navigation">
-              {NAV_ITEMS.map(({ path, key }) => (
-                <Link
-                  key={key}
-                  to={path}
-                  className="block text-sm text-(--text-muted) transition-colors hover:text-primary-600 dark:hover:text-primary-300"
-                >
-                  {t(`nav.${key}`)}
-                </Link>
-              ))}
-            </nav>
-          </div>
         </div>
 
         <div className="mt-10 border-t border-(--border) pt-6 text-center text-xs text-(--text-muted)">

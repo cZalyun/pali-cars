@@ -124,7 +124,17 @@
       "price": "14.900 Ft",
       "note": "Akár több járműre vonatkozólag.\nEgészen addig szól, amíg nem kerül megvételre egy kinézett jármű, ha egy hét, ha több hónap is."
     },
-    "viewServices": "Szolgáltatások"
+    "bundle": {
+      "title": "Teljes körű csomag",
+      "subtitle": "Tanácsadás + Kínálatfigyelés",
+      "includes": "Tartalmazza",
+      "item1": "Vásárlás előtti tanácsadás",
+      "item2": "Autó keresés, kínálat figyelése",
+      "originalPrice": "25.800 – 29.800 Ft",
+      "price": "19.900 Ft",
+      "save": "Spórolj akár 10.000 Ft-ot!",
+      "note": "A két szolgáltatás együttes igénybevétele esetén kedvezményes, egységes áron."
+    }
   },
   "about": {
     "title": "És ki az a Palicar?",
