@@ -34,7 +34,7 @@ export function Home() {
             transition={{ duration: reduced ? 0 : 0.6, ease: [0.25, 0.1, 0.25, 1] }}
           >
             <a
-              href="https://www.google.com/search?sa=X&sca_esv=529d083b40021c7f&hl=en-HU&sxsrf=ANbL-n6bGHATrNBJI6XHee27_LwaePiyZw:1771539476848&q=Palicar+Reviews&rflfq=1&num=20&stick=H4sIAAAAAAAAAONgkxIxNDU3Mje0MDIyNjMxszA2NTUwNt7AyPiKkT8gMSczObFIISi1LDO1vHgRK7oIAFeNPFY_AAAA&rldimm=15727182236468355033&tbm=lcl&ved=2ahUKEwijmOTpyuaSAxXsFhAIHQrbLwsQ9fQKegQIQxAG&biw=960&bih=836&dpr=1#lkt=LocalPoiReviews"
+              href="https://maps.app.goo.gl/ePYcnnUMV8fAM12X9"
               target="_blank"
               rel="noopener noreferrer"
               className="mb-6 inline-flex items-center gap-2 rounded-full bg-white/10 px-4 py-1.5 text-sm font-medium backdrop-blur-sm transition-colors hover:bg-white/20"
