@@ -81,54 +81,47 @@ export function Services() {
 
       {/* Pre-Purchase Consulting */}
       <section className="bg-(--surface-card) py-20">
-        <div className="mx-auto grid max-w-6xl items-center gap-10 px-4 lg:grid-cols-2">
+        <div className="mx-auto max-w-6xl px-4">
           <ScrollReveal>
-            <img
-              src={`${BASE}images/portrait-arms-crossed.jpg`}
-              alt="Barla-Szabó Dániel"
-              className="w-full rounded-2xl object-cover shadow-lg"
-              loading="lazy"
-              width={600}
-              height={800}
-            />
+            <h2 className="text-2xl font-bold sm:text-3xl">
+              {t('services.consulting.title')}
+            </h2>
+            <div className="mt-4 space-y-3 text-sm leading-relaxed text-(--text-muted) sm:text-base">
+              {(t('services.consulting.longDescription') as string)
+                .split('\n')
+                .map((p, i) => (
+                  <p key={i}>{p}</p>
+                ))}
+            </div>
           </ScrollReveal>
-          <div>
-            <ScrollReveal>
-              <h2 className="text-2xl font-bold sm:text-3xl">
-                {t('services.consulting.title')}
-              </h2>
-              <div className="mt-4 space-y-3 text-sm leading-relaxed text-(--text-muted) sm:text-base">
-                {(t('services.consulting.longDescription') as string)
-                  .split('\n')
-                  .map((p, i) => (
-                    <p key={i}>{p}</p>
-                  ))}
-              </div>
-            </ScrollReveal>
+        </div>
+      </section>
 
-            <ScrollReveal delay={0.1}>
-              <h2 className="mt-10 text-2xl font-bold sm:text-3xl">
-                {t('services.search.title')}
-              </h2>
-              <div className="mt-4 space-y-3 text-sm leading-relaxed text-(--text-muted) sm:text-base">
-                {(t('services.search.longDescription') as string)
-                  .split('\n')
-                  .map((p, i) => (
-                    <p key={i}>{p}</p>
-                  ))}
-              </div>
-            </ScrollReveal>
+      {/* Car Search & Listing Monitoring */}
+      <section className="py-20">
+        <div className="mx-auto max-w-6xl px-4">
+          <ScrollReveal>
+            <h2 className="text-2xl font-bold sm:text-3xl">
+              {t('services.search.title')}
+            </h2>
+            <div className="mt-4 space-y-3 text-sm leading-relaxed text-(--text-muted) sm:text-base">
+              {(t('services.search.longDescription') as string)
+                .split('\n')
+                .map((p, i) => (
+                  <p key={i}>{p}</p>
+                ))}
+            </div>
+          </ScrollReveal>
 
-            <ScrollReveal delay={0.15} className="mt-8">
-              <Link
-                to="/pricing"
-                className="inline-flex items-center gap-2 rounded-xl bg-primary-600 px-6 py-3 text-sm font-semibold text-white shadow transition-transform hover:scale-105 active:scale-100"
-              >
-                {t('nav.pricing')}
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.5} strokeLinecap="round" strokeLinejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-              </Link>
-            </ScrollReveal>
-          </div>
+          <ScrollReveal delay={0.15} className="mt-8">
+            <Link
+              to="/pricing"
+              className="inline-flex items-center gap-2 rounded-xl bg-primary-600 px-6 py-3 text-sm font-semibold text-white shadow transition-transform hover:scale-105 active:scale-100"
+            >
+              {t('nav.pricing')}
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.5} strokeLinecap="round" strokeLinejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </Link>
+          </ScrollReveal>
         </div>
       </section>
     </>
