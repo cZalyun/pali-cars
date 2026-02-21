@@ -5,7 +5,7 @@ export function StructuredData() {
     name: 'Palicar',
     description:
       'Független használtautó átvizsgálás és szaktanácsadás Győrben és országosan',
-    url: 'https://czalyun.github.io/pali-cars/',
+    url: 'https://palicars.com/',
     telephone: '+3670977-1360',
     email: 'barla.dani@gmail.com',
     address: {
@@ -34,7 +34,7 @@ export function StructuredData() {
       ratingValue: '5.0',
       reviewCount: '22',
     },
-    image: 'https://czalyun.github.io/pali-cars/images/logo-square.png',
+    image: 'https://palicars.com/images/logo-square.png',
   };
 
   return (
