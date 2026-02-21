@@ -140,7 +140,7 @@ export function Home() {
             <div className="overflow-hidden rounded-2xl border border-(--border) bg-(--surface-card) shadow-sm">
               <iframe
                 title="Palicar Location"
-                src="https://www.google.com/maps?q=47.6900262,17.6335998&z=17&output=embed"
+                src="https://www.google.com/maps?q=Palicar%20Gy%C5%91r&output=embed"
                 width="100%"
                 height="420"
                 style={{ border: 0 }}
