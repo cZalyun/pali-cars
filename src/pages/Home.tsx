@@ -124,7 +124,7 @@ export function Home() {
             </div>
             <Link
               to="/about"
-              className="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-primary-600 transition-colors hover:text-primary-500 dark:text-primary-300"
+              className="mt-6 inline-flex items-center gap-2 rounded-xl border border-primary-600 px-6 py-3 text-sm font-semibold text-primary-600 shadow transition-transform hover:scale-105 active:scale-100 dark:border-primary-300 dark:text-primary-300"
             >
               {t('about.readMore')}
               <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.5} strokeLinecap="round" strokeLinejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
@@ -134,18 +134,23 @@ export function Home() {
       </section>
 
       {/* CTA Banner */}
-      <section className="bg-primary-600 py-16 text-center text-white">
-        <ScrollReveal>
-          <h2 className="text-2xl font-bold sm:text-3xl">{t('services.pageSubtitle')}</h2>
-          <p className="mx-auto mt-3 max-w-md text-white/80">{t('hero.subtitle')}</p>
-          <Link
-            to="/contact"
-            className="mt-8 inline-flex items-center gap-2 rounded-xl bg-white px-6 py-3 text-sm font-semibold text-primary-600 shadow-lg transition-transform hover:scale-105 active:scale-100"
-          >
-            {t('hero.cta')}
-            <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.5} strokeLinecap="round" strokeLinejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-          </Link>
-        </ScrollReveal>
+      <section className="bg-primary-600 py-16">
+        <div className="mx-auto max-w-6xl px-4">
+          <ScrollReveal>
+            <div className="overflow-hidden rounded-2xl border border-(--border) bg-(--surface-card) shadow-sm">
+              <iframe
+                title="Palicar Location"
+                src="https://www.google.com/maps?q=47.6900262,17.6335998&z=17&output=embed"
+                width="100%"
+                height="420"
+                style={{ border: 0 }}
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+              />
+            </div>
+          </ScrollReveal>
+        </div>
       </section>
     </>
   );

@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { ScrollReveal } from '../components/ScrollReveal';
 
@@ -35,7 +36,7 @@ export function Pricing() {
                     {t('pricing.inspection.remotePrice')}
                   </p>
                 </div>
-                <p className="mt-auto text-xs leading-relaxed text-(--text-muted)">
+                <p className="mt-auto text-sm leading-relaxed text-(--text-muted)">
                   {t('pricing.inspection.note')}
                 </p>
               </div>
@@ -55,7 +56,7 @@ export function Pricing() {
                     {t('pricing.consulting.price')}
                   </p>
                 </div>
-                <div className="mt-auto space-y-2 text-xs leading-relaxed text-(--text-muted)">
+                <div className="mt-auto space-y-2 text-sm leading-relaxed text-(--text-muted)">
                   {(t('pricing.consulting.note') as string).split('\n').map((p, i) => (
                     <p key={i}>{p}</p>
                   ))}
@@ -77,7 +78,7 @@ export function Pricing() {
                     {t('pricing.search.price')}
                   </p>
                 </div>
-                <div className="mt-auto space-y-2 text-xs leading-relaxed text-(--text-muted)">
+                <div className="mt-auto space-y-2 text-sm leading-relaxed text-(--text-muted)">
                   {(t('pricing.search.note') as string).split('\n').map((p, i) => (
                     <p key={i}>{p}</p>
                   ))}
@@ -113,7 +114,7 @@ export function Pricing() {
                     {t('pricing.bundle.item2')}
                   </li>
                 </ul>
-                <p className="mt-4 text-xs leading-relaxed text-(--text-muted)">
+                <p className="mt-4 text-sm leading-relaxed text-(--text-muted)">
                   {t('pricing.bundle.note')}
                 </p>
               </div>
@@ -127,6 +128,16 @@ export function Pricing() {
               </div>
             </div>
           </div>
+        </ScrollReveal>
+
+        <ScrollReveal className="mt-12 text-center">
+          <Link
+            to="/services"
+            className="inline-flex items-center gap-2 rounded-xl bg-primary-600 px-6 py-3 text-sm font-semibold text-white shadow transition-transform hover:scale-105 active:scale-100"
+          >
+            Services
+            <svg xmlns="http://www.w3.org/2000/svg" className="h-4 w-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.5} strokeLinecap="round" strokeLinejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          </Link>
         </ScrollReveal>
       </section>
     </>
