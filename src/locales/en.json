@@ -3,7 +3,7 @@
     "home": "Home",
     "services": "Services",
     "pricing": "Pricing",
-    "about": "About",
+    "about": "About me",
     "contact": "Contact"
   },
   "hero": {
@@ -145,7 +145,7 @@
     "bio4": "I have in-depth knowledge of vehicle technical solutions, their complex understanding, and problem identification — essential for thorough car inspections.",
     "bio5": "Working in the automotive industry for five years and counting, I've gained extensive experience in automotive trends, manufacturer specifics, and their associated risks.",
     "shortBio": "I'm Dániel Barla-Szabó, a car purchase expert.\nI've been passionate about vehicles and their technical solutions since childhood. I spend my free time developing my hobby car and on the race track.\nAs a certified vehicle engineer, I have significant knowledge of vehicle technical solutions and their complex understanding. I completed my studies at Széchenyi István University, mastering expertise in both combustion and electric vehicles.\nWorking in the automotive industry for five years and counting, I've gained extensive experience in automotive trends, manufacturer specifics, and their associated risks.",
-    "readMore": "About Me"
+    "readMore": "About me"
   },
   "contact": {
     "title": "Contact",
