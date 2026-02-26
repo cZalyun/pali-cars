@@ -109,19 +109,20 @@
       "local": "Győrben",
       "localPrice": "29.000 Ft / autó",
       "remote": "Eltérő helyszínen",
-      "remotePrice": "+50 Ft /km",
+      "remotePrice": "+60 Ft/km",
+      "remoteBothWays": "oda-vissza",
       "note": "Adott alkalommal több jármű átvizsgálása esetén kedvezményes díj, egyéni árazással."
     },
     "consulting": {
       "title": "Vásárlás előtti tanácsadás",
       "subtitle": "Igényektől függően",
-      "price": "10.900 – 14.900 Ft",
-      "note": "Akár több járműre, alkalomra vonatkozólag.\nHa idővel meggondolod magad a típus iránt, nem kerül újabb összeg felszámításra, javaslok másik modellt."
+      "price": "11.990 – 14.990 Ft",
+      "note": "Akár több járműre, alkalomra vonatkozólag.\nHa idővel meggondolod magad a típussal kapcsolatban, nem kerül újabb összeg felszámításra, javaslok másik modellt."
     },
     "search": {
       "title": "Autó keresés, kínálat figyelése",
       "subtitle": "Egyszeri összeg",
-      "price": "14.900 Ft",
+      "price": "14.990 Ft",
       "note": "Akár több járműre vonatkozólag.\nEgészen addig szól, amíg nem kerül megvételre egy kinézett jármű, ha egy hét, ha több hónap is."
     },
     "bundle": {
@@ -130,18 +131,20 @@
       "includes": "Tartalmazza",
       "item1": "Vásárlás előtti tanácsadás",
       "item2": "Autó keresés, kínálat figyelése",
-      "originalPrice": "25.800 – 29.800 Ft",
-      "price": "19.900 Ft",
+      "originalPrice": "26.980–29.980 Ft",
+      "price": "19.990 Ft",
       "save": "Spórolj akár 10.000 Ft-ot!",
       "note": "A két szolgáltatás együttes igénybevétele esetén kedvezményes, egységes áron."
-    }
+    },
+    "customOffer": "ha nem találtad meg a neked kedvező csomagot, egyedi ajánlatért kérlek vedd fel velem a kapcsolatot."
   },
   "about": {
     "title": "És ki az a Palicar?",
     "shortTitle": "Rólam / bemutatkozás",
+    "galleryTitle": "Galéria",
     "bio1": "Barla-Szabó Dániel vagyok, autóvásárlási szakértő és kalibrációs mérnök.",
     "bio2": "Gyermekkorom óta szenvedélyem a járművek és azok technikai megoldásai. Szabadidőmet hobbiautóm fejlesztésével és versenypályán töltöm.",
-    "bio3": "Gépész technikusi vizsgát követően a Széchenyi István Egyetemen folytattam tanulmányaimat járműmérnökként, ahol alapdiplomámat belsőégésű motorok-, míg mesterdiplomámat villamos járműhajtások szakirányon végeztem. Ennek köszönhetően jelentős, naprakész technikai tudással rendelkezem hagyományos belsőégésű motorok, illetve elektromos járművek terén is.",
+    "bio3": "A gépész technikusi vizsgát követően a Széchenyi István Egyetemen folytattam tanulmányaimat járműmérnökként, ahol alapdiplomámat belsőégésű motorok-, míg mesterdiplomámat villamos járműhajtások szakirányon szereztem. Ennek köszönhetően jelentős, naprakész technikai tudással rendelkezem hagyományos belsőégésű motorok, illetve elektromos járművek terén is.",
     "bio4": "Mélyreható ismeretekkel rendelkezem járművek műszaki megoldásaiban, azok komplex megértésében és problémáik feltárásában, mely elengedhetetlen az autóátvizsgálás során.",
     "bio5": "Öt éve, illetve jelenleg is az autóiparban dolgozva széles körű tapasztalatra tettem szert az autóipari trendekről, gyártók sajátosságairól és ezek kockázatairól.",
     "shortBio": "Barla-Szabó Dániel vagyok, autóvásárlási szakértő.\nGyermekkorom óta szenvedélyem a járművek és azok technikai megoldásai. Szabadidőmet hobbiautóm fejlesztésével és versenypályán töltöm.\nOkleveles járműmérnökként jelentős ismerettel rendelkezem a járművek műszaki megoldásaiban és azok komplex megértésében. Tanulmányaimat a Széchenyi István Egyetemen végeztem, ahol mind a belsőégésű és elektromos autók szakértelmét elsajátítottam.\nÖt éve, illetve jelenleg is az autóiparban dolgozva széles körű tapasztalatra tettem szert az autóipari trendekről, gyártók sajátosságairól és ezek kockázatairól.",
@@ -154,9 +157,9 @@
     "country": "Magyarország",
     "phone": "+36 70/977-1360",
     "email": "barla.dani@gmail.com",
-    "hoursTitle": "Nyitvatartás",
+    "hoursTitle": "Elérhetőség",
     "weekdays": "Hétfő – Péntek",
-    "weekdayHours": "8:00 – 20:00",
+    "weekdayHours": "9:00 – 20:00",
     "weekends": "Szombat – Vasárnap",
     "weekendHours": "10:00 – 20:00",
     "mapLink": "Útvonaltervezés",

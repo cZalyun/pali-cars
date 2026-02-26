@@ -80,7 +80,7 @@ export function Services() {
       </section>
 
       {/* Pre-Purchase Consulting */}
-      <section className="bg-(--surface-card) py-20">
+      <section className="bg-(--surface-card) bg-slate-50 py-20 dark:bg-(--surface-card)">
         <div className="mx-auto max-w-6xl px-4">
           <ScrollReveal>
             <h2 className="text-2xl font-bold sm:text-3xl">

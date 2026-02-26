@@ -109,19 +109,20 @@
       "local": "In Győr",
       "localPrice": "29.000 HUF / Auto",
       "remote": "An einem anderen Standort",
-      "remotePrice": "+50 HUF / km",
+      "remotePrice": "+60 HUF/km",
+      "remoteBothWays": "hin und zurück",
       "note": "Ermäßigte Preise bei mehreren Fahrzeuginspektionen zum gleichen Anlass, mit individueller Preisgestaltung."
     },
     "consulting": {
       "title": "Kaufberatung",
       "subtitle": "Je nach Bedarf",
-      "price": "10.900 – 14.900 HUF",
-      "note": "Gilt für mehrere Fahrzeuge und Anlässe.\nWenn du dich im Laufe der Zeit für ein anderes Modell entscheidest, fallen keine zusätzlichen Kosten an — ich empfehle ein anderes."
+      "price": "11.990–14.990 HUF",
+      "note": "Gilt für mehrere Fahrzeuge und Anlässe.\nWenn du dich bezüglich des Modells umentscheidest, fallen keine zusätzlichen Kosten an — ich empfehle ein anderes."
     },
     "search": {
       "title": "Autosuche & Angebotsüberwachung",
       "subtitle": "Einmaliger Betrag",
-      "price": "14.900 HUF",
+      "price": "14.990 HUF",
       "note": "Gilt für mehrere Fahrzeuge.\nGültig bis ein ausgewähltes Fahrzeug gekauft wird, ob es eine Woche oder mehrere Monate dauert."
     },
     "bundle": {
@@ -130,15 +131,17 @@
       "includes": "Beinhaltet",
       "item1": "Kaufberatung",
       "item2": "Autosuche & Angebotsüberwachung",
-      "originalPrice": "25.800 – 29.800 HUF",
-      "price": "19.900 HUF",
+      "originalPrice": "26.980–29.980 HUF",
+      "price": "19.990 HUF",
       "save": "Spare bis zu 10.000 HUF!",
       "note": "Vergünstigter Pauschalpreis bei gemeinsamer Buchung beider Leistungen."
-    }
+    },
+    "customOffer": "Wenn du kein passendes Paket gefunden hast, kontaktiere mich bitte für ein individuelles Angebot."
   },
   "about": {
     "title": "Wer ist Palicar?",
     "shortTitle": "Über mich",
+    "galleryTitle": "Galerie",
     "bio1": "Ich bin Dániel Barla-Szabó, Autokauf-Experte und Kalibrierungsingenieur.",
     "bio2": "Seit meiner Kindheit begeistern mich Fahrzeuge und ihre technischen Lösungen. Meine Freizeit verbringe ich mit der Entwicklung meines Hobbyautos und auf der Rennstrecke.",
     "bio3": "Nach meinem Maschinenbautechniker-Abschluss setzte ich mein Studium an der Széchenyi István Universität als Fahrzeugingenieur fort, wo ich meinen Bachelor in Verbrennungsmotoren und meinen Master in elektrischen Fahrzeugantrieben erwarb. Dadurch verfüge ich über fundiertes, aktuelles technisches Wissen sowohl bei herkömmlichen Verbrennungsmotoren als auch bei Elektrofahrzeugen.",
@@ -156,7 +159,7 @@
     "email": "barla.dani@gmail.com",
     "hoursTitle": "Öffnungszeiten",
     "weekdays": "Montag – Freitag",
-    "weekdayHours": "8:00 – 20:00",
+    "weekdayHours": "9:00 – 20:00",
     "weekends": "Samstag – Sonntag",
     "weekendHours": "10:00 – 20:00",
     "mapLink": "Route planen",

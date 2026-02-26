@@ -74,7 +74,7 @@ export function Home() {
         <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {serviceKeys.map((key, i) => (
             <ScrollReveal key={key} delay={i * 0.1}>
-              <div className="group h-full rounded-2xl border border-(--border) bg-(--surface-card) p-6 transition-all hover:border-primary-300 hover:shadow-lg dark:hover:border-primary-700">
+              <div className="group h-full rounded-2xl border border-(--border) border-slate-200 bg-(--surface-card) bg-slate-50 p-6 transition-all hover:border-primary-300 hover:shadow-lg dark:border-(--border) dark:bg-(--surface-card) dark:hover:border-primary-700">
                 <div className="mb-4 flex h-14 w-14 items-center justify-center rounded-xl bg-primary-600/10 text-primary-600 dark:text-primary-300">
                   {SERVICE_ICONS[i]}
                 </div>
@@ -102,7 +102,7 @@ export function Home() {
 
       {/* About Teaser */}
       <section className="bg-(--surface-card) py-20">
-        <div className="mx-auto grid max-w-6xl items-center gap-10 px-4 lg:grid-cols-2">
+        <div className="mx-auto grid max-w-6xl items-start gap-10 px-4 lg:grid-cols-2">
           <ScrollReveal>
             <img
               src={`${BASE}images/portrait-car.jpg`}

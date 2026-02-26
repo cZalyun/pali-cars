@@ -65,7 +65,7 @@ export function About() {
         <div className="mx-auto max-w-6xl px-4">
           <ScrollReveal>
             <h2 className="mb-10 text-center text-2xl font-bold sm:text-3xl">
-              {t('services.inspection.title')}
+              {t('about.galleryTitle')}
             </h2>
           </ScrollReveal>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
