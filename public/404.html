@@ -2,7 +2,25 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <script>window.location.replace('/');</script>
+    <!--
+      GitHub Pages SPA routing trick (spa-github-pages technique).
+      Encodes the path into the query string and redirects to the root,
+      where index.html decodes it and restores the real URL via history.replaceState.
+    -->
+    <script>
+      var l = window.location;
+      l.replace(
+        l.protocol +
+          '//' +
+          l.hostname +
+          (l.port ? ':' + l.port : '') +
+          l.pathname.split('/').slice(0, 1).join('/') +
+          '/?/' +
+          l.pathname.slice(1).replace(/&/g, '~and~') +
+          (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+          l.hash,
+      );
+    </script>
   </head>
   <body></body>
 </html>
