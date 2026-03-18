@@ -56,7 +56,7 @@ export function Contact() {
                     ))}
                   </div>
                   <p className="text-sm text-(--text-muted)">
-                    22 {t('hero.reviews')} · {t('hero.trustBadge')}
+                    26 {t('hero.reviews')} · {t('hero.trustBadge')}
                   </p>
                 </div>
                 <svg xmlns="http://www.w3.org/2000/svg" className="ml-auto h-4 w-4 text-(--text-muted)" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6M15 3h6v6M10 14 21 3"/></svg>

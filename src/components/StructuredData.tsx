@@ -32,7 +32,7 @@ export function StructuredData() {
     aggregateRating: {
       '@type': 'AggregateRating',
       ratingValue: '5.0',
-      reviewCount: '23',
+      reviewCount: '26',
     },
     image: 'https://palicars.com/images/logo-square.png',
   };

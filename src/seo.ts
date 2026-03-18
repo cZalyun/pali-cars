@@ -2,7 +2,7 @@ export const SITE_BASE_URL = 'https://palicars.com';
 
 export const DEFAULT_TITLE = 'Palicar \u2013 F\u00fcggetlen haszn\u00e1ltaut\u00f3 \u00e1tvizsg\u00e1l\u00e1s Gy\u0151r';
 export const DEFAULT_DESCRIPTION =
-  'F\u00fcggetlen haszn\u00e1ltaut\u00f3 \u00e1tvizsg\u00e1l\u00e1s \u00e9s szaktanácsad\u00e1s Gy\u0151rben \u00e9s orsz\u00e1gosan. \u2605 5.0 Google \u00e9rt\u00e9kel\u00e9s, 22 v\u00e9lem\u00e9ny.';
+  'F\u00fcggetlen haszn\u00e1ltaut\u00f3 \u00e1tvizsg\u00e1l\u00e1s \u00e9s szaktanácsad\u00e1s Gy\u0151rben \u00e9s orsz\u00e1gosan. \u2605 5.0 Google \u00e9rt\u00e9kel\u00e9s, 26 v\u00e9lem\u00e9ny.';
 export const DEFAULT_OG_IMAGE = `${SITE_BASE_URL}/images/logo-square.png`;
 
 export interface PageSeoConfig {
