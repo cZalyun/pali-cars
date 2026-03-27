@@ -81,7 +81,7 @@ export function Home() {
                 <h3 className="mb-2 text-lg font-semibold">
                   {t(`services.${key}.title`)}
                 </h3>
-                <p className="text-sm leading-relaxed text-(--text-muted)">
+                <p className="text-[0.95rem] leading-relaxed text-(--text-muted)">
                   {t(`services.${key}.description`)}
                 </p>
               </div>

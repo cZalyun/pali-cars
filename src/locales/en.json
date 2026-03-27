@@ -38,8 +38,8 @@
     },
     "consulting": {
       "title": "Pre-Purchase Consulting",
-      "description": "Close monitoring of used car and other automotive portals. To find the best possible specimen for you.",
-      "longDescription": "If you want to get the best out of a given budget, after assessing your needs I'll recommend a suitable model for you.\nMy recommendations are based on facts and technical insights, supported and backed by experience. I suggest models with an objective and rational approach, and I can also help you select the right specimen."
+      "description": "Thorough monitoring of used car and other automotive portals. To find the best car for sale for you.",
+      "longDescription": "If you want to get the best out of a given budget, after a precise assessment of your needs I will recommend the optimal model for you.\nMy recommendations are based on facts and technical insights, supported and backed by experience. I suggest models with an objective and rational approach, and I can also help you select the right specimen."
     },
     "exterior": {
       "title": "Body, Chassis & Exterior Assessment",
@@ -136,7 +136,7 @@
       "save": "Save up to 10,000 HUF!",
       "note": "Discounted flat rate when booking both services together."
     },
-    "customOffer": "If you haven't found a package that suits you, please contact me for a custom offer."
+    "customOffer": "If you haven't found a package that suits you, please get in touch for a custom offer."
   },
   "about": {
     "title": "Who is Palicar?",
@@ -146,7 +146,7 @@
     "bio2": "I've been passionate about vehicles and their technical solutions since childhood. I spend my free time developing my hobby car and on the race track.",
     "bio3": "After completing my mechanical technician diploma, I continued my studies at Széchenyi István University as a vehicle engineer, where I earned my bachelor's degree in internal combustion engines and my master's degree in electric vehicle drivetrains. Thanks to this, I have significant, up-to-date technical knowledge in both traditional combustion engines and electric vehicles.",
     "bio4": "I have in-depth knowledge of vehicle technical solutions, their complex understanding, and problem identification — essential for thorough car inspections.",
-    "bio5": "Working in the automotive industry for five years and counting, I've gained extensive experience in automotive trends, manufacturer specifics, and their associated risks.",
+    "bio5": "Working in the automotive industry for five years, I've gained extensive experience in automotive trends, manufacturer specifics, and their associated risks.",
     "shortBio": "I'm Dániel Barla-Szabó, a car purchase expert.\nI've been passionate about vehicles and their technical solutions since childhood. I spend my free time developing my hobby car and on the race track.\nAs a certified vehicle engineer, I have significant knowledge of vehicle technical solutions and their complex understanding. I completed my studies at Széchenyi István University, mastering expertise in both combustion and electric vehicles.\nWorking in the automotive industry for five years and counting, I've gained extensive experience in automotive trends, manufacturer specifics, and their associated risks.",
     "readMore": "About me"
   },
@@ -171,7 +171,7 @@
     "formNote": "The message will be sent through your email client."
   },
   "footer": {
-    "tagline": "On-site car inspection, condition assessment and purchase consulting",
+    "tagline": "On-site car inspection, condition assessment and purchase consulting, full support throughout the entire car buying process.",
     "rights": "All rights reserved."
   },
   "theme": {

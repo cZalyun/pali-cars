@@ -34,17 +34,17 @@
     "search": {
       "title": "Autó keresés, kínálat figyelése",
       "description": "Ha még nem tudod, vagy nem vagy biztos benne, hogy mit szeretnél venni. Márka és típus tanácsadás, szakértői szemszögből.",
-      "longDescription": "Típusonként sokszáz, vagy ezer autó áll rendelkezésre az aktuális használt autós kínálatban. Ezek közül mégis nagyon kevés van, ami ár/érték arányban megfelelő vétel és valóban a valóságot takarja.\nMódszereimmel és tapasztalatommal gyorsan és hatékonyan keresek a használt autós kínálatban, segítek kiszűrni a megbízhatatlan eladókat már az átvizsgálási fázis előtt. Így sem felesleges pénzt, sem időt nem fordítunk rossz potenciális autók átvizsgálására."
+      "longDescription": "Típusonként sok száz, vagy ezer autó áll rendelkezésre az aktuális használt autós kínálatban. Ezek közül mégis nagyon kevés van, ami ár/érték arányban megfelelő vétel és valóban a valóságot takarja.\nMódszereimmel és tapasztalatommal gyorsan és hatékonyan keresek a használt autós kínálatban, segítek kiszűrni a megbízhatatlan eladókat már az átvizsgálási fázis előtt. Így sem felesleges pénzt, sem időt nem fordítunk rossz potenciális autók átvizsgálására."
     },
     "consulting": {
       "title": "Autóvásárlási tanácsadás",
-      "description": "Használtautó és egyéb autós portálok szoros nyomon követése. Hogy a lehető legjobb példányt találjam neked.",
-      "longDescription": "Ha adott összegből a legjobbat szeretnéd kihozni, az igényeid felmérése után javaslok megfelelő modellt számodra.\nJavaslataim tényeken, műszaki meglátásokon alapulnak, melyet a tapasztalat egészíti ki és támaszt alá. Objektív és racionális szemlélet mentén javaslok típusokat, amelyekből a megfelelő példány kiválasztásában is tudok segíteni."
+      "description": "Használtautó és egyéb autós portálok alapos nyomon követése. Hogy a lehető legjobb eladó autót találjam neked.",
+      "longDescription": "Ha adott összegből a legjobbat szeretnéd kihozni, az igényeid pontos felmérése után a számodra optimális modellt fogom javasolni.\nJavaslataim tényeken, műszaki meglátásokon alapulnak, melyet a tapasztalat egészíti ki és támaszt alá. Objektív és racionális szemlélet mentén javaslok típusokat, amelyekből a megfelelő példány kiválasztásában is tudok segíteni."
     },
     "exterior": {
       "title": "Karosszéria, alváz és külső felmérés",
       "items": [
-        "Festégréteg vastagság mérés",
+        "Festékréteg vastagság mérés",
         "Sérülések, karcolások átnézése",
         "Alváz, küszöbök vizsgálata",
         "Futómű és fékek felmérése",
@@ -94,7 +94,7 @@
     "documentation": {
       "title": "Dokumentálás, összegzés",
       "items": [
-        "Az átvizsgálás összegzése",
+        "Átvizsgálás összegzése",
         "Képek, videók készítése a járműről",
         "Esetleges hibák ismertetése a vevőnek",
         "Alkuban való vevői képviselet",
@@ -136,17 +136,17 @@
       "save": "Spórolj akár 10.000 Ft-ot!",
       "note": "A két szolgáltatás együttes igénybevétele esetén kedvezményes, egységes áron."
     },
-    "customOffer": "ha nem találtad meg a neked kedvező csomagot, egyedi ajánlatért kérlek vedd fel velem a kapcsolatot."
+    "customOffer": "Amennyiben nem találtad meg a neked kedvező csomagot, egyedi ajánlatért kérlek vedd fel velem a kapcsolatot."
   },
   "about": {
     "title": "És ki az a Palicar?",
     "shortTitle": "Rólam / bemutatkozás",
     "galleryTitle": "Galéria",
     "bio1": "Barla-Szabó Dániel vagyok, autóvásárlási szakértő és kalibrációs mérnök.",
-    "bio2": "Gyermekkorom óta szenvedélyem a járművek és azok technikai megoldásai. Szabadidőmet hobbiautóm fejlesztésével és versenypályán töltöm.",
-    "bio3": "A gépész technikusi vizsgát követően a Széchenyi István Egyetemen folytattam tanulmányaimat járműmérnökként, ahol alapdiplomámat belsőégésű motorok-, míg mesterdiplomámat villamos járműhajtások szakirányon szereztem. Ennek köszönhetően jelentős, naprakész technikai tudással rendelkezem hagyományos belsőégésű motorok, illetve elektromos járművek terén is.",
+    "bio2": "Gyermekkorom óta szenvedélyem a járművek és azok technikai megoldásai. Szabadidőmet hobbiautóm fejlesztésével és a versenypályán töltöm.",
+    "bio3": "A gépész technikusi vizsgát követően a Széchenyi István Egyetemen folytattam tanulmányaimat járműmérnökként, ahol alapdiplomámat belsőégésű motorok-, míg mesterdiplomámat villamos járműhajtások szakirányon szereztem. Ennek köszönhetően jelentős, naprakész technikai tudással rendelkezem mind a hagyományos belsőégésű motorok, mind pedig az elektromos járművek terén is.",
     "bio4": "Mélyreható ismeretekkel rendelkezem járművek műszaki megoldásaiban, azok komplex megértésében és problémáik feltárásában, mely elengedhetetlen az autóátvizsgálás során.",
-    "bio5": "Öt éve, illetve jelenleg is az autóiparban dolgozva széles körű tapasztalatra tettem szert az autóipari trendekről, gyártók sajátosságairól és ezek kockázatairól.",
+    "bio5": "Öt éve az autóiparban dolgozva széles körű tapasztalatra tettem szert az autóipari trendekről, gyártók sajátosságairól és ezek kockázatairól.",
     "shortBio": "Barla-Szabó Dániel vagyok, autóvásárlási szakértő.\nGyermekkorom óta szenvedélyem a járművek és azok technikai megoldásai. Szabadidőmet hobbiautóm fejlesztésével és versenypályán töltöm.\nOkleveles járműmérnökként jelentős ismerettel rendelkezem a járművek műszaki megoldásaiban és azok komplex megértésében. Tanulmányaimat a Széchenyi István Egyetemen végeztem, ahol mind a belsőégésű és elektromos autók szakértelmét elsajátítottam.\nÖt éve, illetve jelenleg is az autóiparban dolgozva széles körű tapasztalatra tettem szert az autóipari trendekről, gyártók sajátosságairól és ezek kockázatairól.",
     "readMore": "Rólam"
   },
@@ -171,7 +171,7 @@
     "formNote": "Az üzenet az e-mail klienseden keresztül kerül elküldésre."
   },
   "footer": {
-    "tagline": "Helyszíni autóátvizsgálás, állapotfelmérés és autóvásárlási tanácsadás",
+    "tagline": "Helyszíni autóátvizsgálás, állapotfelmérés és autóvásárlási tanácsadás, teljes autóvétel mentén segítségnyújtás.",
     "rights": "Minden jog fenntartva."
   },
   "theme": {

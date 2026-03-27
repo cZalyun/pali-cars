@@ -38,8 +38,8 @@
     },
     "consulting": {
       "title": "Kaufberatung",
-      "description": "Enge Überwachung von Gebrauchtwagen- und anderen Autoportalen. Um das bestmögliche Exemplar für dich zu finden.",
-      "longDescription": "Wenn du aus einem gegebenen Budget das Beste herausholen möchtest, empfehle ich dir nach einer Bedarfsanalyse ein passendes Modell.\nMeine Empfehlungen basieren auf Fakten und technischen Erkenntnissen, ergänzt und gestützt durch Erfahrung. Ich schlage Modelle mit einem objektiven und rationalen Ansatz vor und kann dir auch bei der Auswahl des richtigen Exemplars helfen."
+      "description": "Gründliche Überwachung von Gebrauchtwagen- und anderen Autoportalen. Um für dich das bestmögliche zum Verkauf stehende Auto zu finden.",
+      "longDescription": "Wenn du aus einem gegebenen Budget das Beste herausholen möchtest, werde ich dir nach einer genauen Analyse deiner Bedürfnisse das für dich optimale Modell vorschlagen.\nMeine Empfehlungen basieren auf Fakten und technischen Erkenntnissen, ergänzt und gestützt durch Erfahrung. Ich schlage Modelle mit einem objektiven und rationalen Ansatz vor und kann dir auch bei der Auswahl des richtigen Exemplars helfen."
     },
     "exterior": {
       "title": "Karosserie-, Fahrgestell- & Außenprüfung",
@@ -136,7 +136,7 @@
       "save": "Spare bis zu 10.000 HUF!",
       "note": "Vergünstigter Pauschalpreis bei gemeinsamer Buchung beider Leistungen."
     },
-    "customOffer": "Wenn du kein passendes Paket gefunden hast, kontaktiere mich bitte für ein individuelles Angebot."
+    "customOffer": "Wenn du kein für dich passendes Paket gefunden hast, kontaktiere mich bitte für ein individuelles Angebot."
   },
   "about": {
     "title": "Wer ist Palicar?",
@@ -146,7 +146,7 @@
     "bio2": "Seit meiner Kindheit begeistern mich Fahrzeuge und ihre technischen Lösungen. Meine Freizeit verbringe ich mit der Entwicklung meines Hobbyautos und auf der Rennstrecke.",
     "bio3": "Nach meinem Maschinenbautechniker-Abschluss setzte ich mein Studium an der Széchenyi István Universität als Fahrzeugingenieur fort, wo ich meinen Bachelor in Verbrennungsmotoren und meinen Master in elektrischen Fahrzeugantrieben erwarb. Dadurch verfüge ich über fundiertes, aktuelles technisches Wissen sowohl bei herkömmlichen Verbrennungsmotoren als auch bei Elektrofahrzeugen.",
     "bio4": "Ich verfüge über tiefgehende Kenntnisse in der Fahrzeugtechnik, deren komplexem Verständnis und der Problemidentifikation — unverzichtbar für eine gründliche Fahrzeuginspektion.",
-    "bio5": "Seit fünf Jahren und laufend in der Automobilindustrie tätig, habe ich umfangreiche Erfahrungen mit Automobiltrends, Herstellerspezifika und deren Risiken gesammelt.",
+    "bio5": "Seit fünf Jahren in der Automobilindustrie tätig, habe ich umfangreiche Erfahrungen mit Automobiltrends, Herstellerspezifika und deren Risiken gesammelt.",
     "shortBio": "Ich bin Dániel Barla-Szabó, Autokauf-Experte.\nSeit meiner Kindheit begeistern mich Fahrzeuge und ihre technischen Lösungen. Meine Freizeit verbringe ich mit der Entwicklung meines Hobbyautos und auf der Rennstrecke.\nAls diplomierter Fahrzeugingenieur verfüge ich über fundierte Kenntnisse in der Fahrzeugtechnik und deren komplexem Verständnis. Mein Studium absolvierte ich an der Széchenyi István Universität, wo ich Expertise in Verbrennungsmotoren und Elektrofahrzeugen erwarb.\nSeit fünf Jahren und laufend in der Automobilindustrie tätig, habe ich umfangreiche Erfahrungen mit Automobiltrends, Herstellerspezifika und deren Risiken gesammelt.",
     "readMore": "Über mich"
   },
@@ -171,7 +171,7 @@
     "formNote": "Die Nachricht wird über deinen E-Mail-Client gesendet."
   },
   "footer": {
-    "tagline": "Vor-Ort-Fahrzeuginspektion, Zustandsbewertung und Kaufberatung",
+    "tagline": "Vor-Ort-Fahrzeuginspektion, Zustandsbewertung und Kaufberatung, vollständige Unterstützung während des gesamten Autokaufs.",
     "rights": "Alle Rechte vorbehalten."
   },
   "theme": {
