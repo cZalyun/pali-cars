@@ -13,12 +13,28 @@
     "trustBadge": "Google-Bewertung",
     "reviews": "Bewertungen"
   },
+  "home": {
+    "cards": {
+      "inspection": {
+        "description": "Flexible Zustandsbewertung vor Ort."
+      },
+      "search": {
+        "description": "Wenn du noch nicht weißt oder nicht sicher bist, was du kaufen möchtest. Marken- und Modellberatung aus Expertensicht."
+      },
+      "consulting": {
+        "description": "Gründliche Überwachung von Gebrauchtwagen- und anderen Autoportalen. Um für dich das bestmögliche zum Verkauf stehende Auto zu finden."
+      }
+    },
+    "aboutTeaser": {
+      "shortBio": "Ich bin Dániel Barla-Szabó, Autokauf-Experte.\nSeit meiner Kindheit begeistern mich Fahrzeuge und ihre technischen Lösungen. Meine Freizeit verbringe ich mit der Entwicklung meines Hobbyautos und auf der Rennstrecke.\nAls diplomierter Fahrzeugingenieur verfüge ich über fundierte Kenntnisse in der Fahrzeugtechnik und deren komplexem Verständnis. Mein Studium absolvierte ich an der Széchenyi István Universität, wo ich Expertise in Verbrennungsmotoren und Elektrofahrzeugen erwarb.\nSeit 2021 arbeite ich in der Automobilindustrie und habe umfangreiche Erfahrungen mit Automobiltrends, Herstellerspezifika und deren Risiken gesammelt."
+    }
+  },
   "services": {
     "sectionTitle": "Wie kann ich dir helfen?",
     "pageTitle": "Worauf kannst du dich bei mir verlassen?",
     "pageSubtitle": "Wenn du dich im Prozess etwas verloren fühlst",
     "cta": "Kontakt aufnehmen",
-    "inspectionTitle": "Fahrzeugzustandsbewertung – In Győr und Umgebung",
+    "inspectionTitle": "Fahrzeugzustandsbewertung – In Győr, Budapest und Umgebung",
     "inspection": {
       "title": "Vor-Ort-Fahrzeuginspektion",
       "description": "Flexible Zustandsbewertung vor Ort.",

@@ -13,12 +13,28 @@
     "trustBadge": "Google Rating",
     "reviews": "reviews"
   },
+  "home": {
+    "cards": {
+      "inspection": {
+        "description": "Flexible on-location condition assessment."
+      },
+      "search": {
+        "description": "If you don't know yet, or aren't sure what you want to buy. Brand and model consulting from an expert perspective."
+      },
+      "consulting": {
+        "description": "Thorough monitoring of used car and other automotive portals. To find the best car for sale for you."
+      }
+    },
+    "aboutTeaser": {
+      "shortBio": "I'm Dániel Barla-Szabó, a car purchase expert.\nI've been passionate about vehicles and their technical solutions since childhood. I spend my free time developing my hobby car and on the race track.\nAs a certified vehicle engineer, I have significant knowledge of vehicle technical solutions and their complex understanding. I completed my studies at Széchenyi István University, mastering expertise in both combustion and electric vehicles.\nSince 2021 I've been working in the automotive industry, gaining extensive experience in automotive trends, manufacturer specifics, and their associated risks."
+    }
+  },
   "services": {
     "sectionTitle": "How can I help you?",
     "pageTitle": "What can you count on me for?",
     "pageSubtitle": "If you feel a bit lost in the process",
     "cta": "Get in Touch",
-    "inspectionTitle": "Vehicle Condition Assessment – In Győr and Beyond",
+    "inspectionTitle": "Vehicle Condition Assessment – In Győr, Budapest and beyond",
     "inspection": {
       "title": "On-site Car Inspection",
       "description": "Flexible on-location condition assessment.",

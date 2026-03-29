@@ -79,10 +79,10 @@ export function Home() {
                   {SERVICE_ICONS[i]}
                 </div>
                 <h3 className="mb-2 text-lg font-semibold">
-                  {t(`services.${key}.title`)}
+                  {t(`home.cards.${key}.title`, { defaultValue: t(`services.${key}.title`) })}
                 </h3>
                 <p className="text-[0.95rem] leading-relaxed text-(--text-muted)">
-                  {t(`services.${key}.description`)}
+                  {t(`home.cards.${key}.description`, { defaultValue: t(`services.${key}.description`) })}
                 </p>
               </div>
             </ScrollReveal>
@@ -115,10 +115,12 @@ export function Home() {
           </ScrollReveal>
           <ScrollReveal delay={0.15}>
             <h2 className="text-2xl font-bold sm:text-3xl">
-              {t('about.shortTitle')}
+              {t('home.aboutTeaser.title', { defaultValue: t('about.shortTitle') })}
             </h2>
             <div className="mt-4 space-y-3 text-sm leading-relaxed text-(--text-muted) sm:text-base">
-              {(t('about.shortBio') as string).split('\n').map((p, i) => (
+              {(t('home.aboutTeaser.shortBio', { defaultValue: t('about.shortBio') }) as string)
+                .split('\n')
+                .map((p, i) => (
                 <p key={i}>{p}</p>
               ))}
             </div>

@@ -13,12 +13,30 @@
     "trustBadge": "Google értékelés",
     "reviews": "vélemény"
   },
+  "home": {
+    "cards": {
+      "inspection": {
+        "description": "Állapotfelmérés rugalmas helyszínen."
+      },
+      "search": {
+        "title": "Autókeresés, kínálat figyelése",
+        "description": "Ha még nem tudod, vagy nem vagy biztos abban, hogy mit szeretnél venni. Márka- és típustanácsadás, szakértői szemszögből."
+      },
+      "consulting": {
+        "description": "Használtautó- és egyéb autós portálok alapos nyomon követése. Hogy a lehető legjobb eladó autót találjam neked."
+      }
+    },
+    "aboutTeaser": {
+      "title": "Bemutatkozás",
+      "shortBio": "Barla-Szabó Dániel vagyok, autóvásárlási szakértő.\nGyermekkorom óta szenvedélyem a járművek és azok technikai megoldásai. Szabadidőmet hobbiautóm fejlesztésével és versenypályán töltöm.\nOkleveles járműmérnökként jelentős ismerettel rendelkezem a járművek műszaki megoldásaiban és azok komplex megértésében. Tanulmányaimat a Széchenyi István Egyetemen végeztem, ahol mind a belsőégésű, mind az elektromos autók szakértelmét elsajátítottam.\n2021 óta az autóiparban dolgozom, széleskörű tapasztalatra tettem szert az autóipari trendekről, a gyártók sajátosságairól és ezek kockázatairól."
+    }
+  },
   "services": {
     "sectionTitle": "Miben állok rendelkezésedre?",
     "pageTitle": "Miben számíthatsz rám?",
     "pageSubtitle": "Ha úgy érzed, kicsit elvesztél a folyamatban",
     "cta": "Kapcsolatfelvétel",
-    "inspectionTitle": "Gépjármű állapotfelmérés – Győrben és vidéken",
+    "inspectionTitle": "Gépjármű állapotfelmérés  – Győrben, Budapesten és vidéken",
     "inspection": {
       "title": "Helyszíni autóátvizsgálás",
       "description": "Rugalmas helyszínen való állapotfelmérés.",
@@ -32,19 +50,19 @@
       ]
     },
     "search": {
-      "title": "Autó keresés, kínálat figyelése",
+      "title": "Autókeresés, kínálat figyelése",
       "description": "Ha még nem tudod, vagy nem vagy biztos benne, hogy mit szeretnél venni. Márka és típus tanácsadás, szakértői szemszögből.",
-      "longDescription": "Típusonként sok száz, vagy ezer autó áll rendelkezésre az aktuális használt autós kínálatban. Ezek közül mégis nagyon kevés van, ami ár/érték arányban megfelelő vétel és valóban a valóságot takarja.\nMódszereimmel és tapasztalatommal gyorsan és hatékonyan keresek a használt autós kínálatban, segítek kiszűrni a megbízhatatlan eladókat már az átvizsgálási fázis előtt. Így sem felesleges pénzt, sem időt nem fordítunk rossz potenciális autók átvizsgálására."
+      "longDescription": "Típusonként sok száz, vagy ezer autó áll rendelkezésre az aktuális használtautós-kínálatban. Ezek közül mégis nagyon kevés van, ami ár-érték arányban megfelelő vétel és ténylegesen a valóságot takarja.\nMódszereimmel és tapasztalatommal gyorsan és hatékonyan keresek a használtautós-kínálatban, segítek kiszűrni a megbízhatatlan eladókat már az átvizsgálási fázis előtt. Így sem felesleges pénzt, sem időt nem fordítunk potenciálisan rossz autók átvizsgálására."
     },
     "consulting": {
       "title": "Autóvásárlási tanácsadás",
       "description": "Használtautó és egyéb autós portálok alapos nyomon követése. Hogy a lehető legjobb eladó autót találjam neked.",
-      "longDescription": "Ha adott összegből a legjobbat szeretnéd kihozni, az igényeid pontos felmérése után a számodra optimális modellt fogom javasolni.\nJavaslataim tényeken, műszaki meglátásokon alapulnak, melyet a tapasztalat egészíti ki és támaszt alá. Objektív és racionális szemlélet mentén javaslok típusokat, amelyekből a megfelelő példány kiválasztásában is tudok segíteni."
+      "longDescription": "Ha adott összegből a legjobbat szeretnéd kihozni, az igényeid pontos felmérése után a számodra optimális modellt fogom javasolni.\nJavaslataim tényeken, műszaki meglátásokon alapulnak, melyet a tapasztalat egészít ki és támaszt alá. Objektív és racionális szemlélet mentén javaslok típusokat, amelyekből a megfelelő példány kiválasztásában is tudok segíteni."
     },
     "exterior": {
-      "title": "Karosszéria, alváz és külső felmérés",
+      "title": "Karosszéria-, alváz- és külsőfelmérés",
       "items": [
-        "Festékréteg vastagság mérés",
+        "Festékrétegvastagság-mérés",
         "Sérülések, karcolások átnézése",
         "Alváz, küszöbök vizsgálata",
         "Futómű és fékek felmérése",
@@ -52,7 +70,7 @@
       ]
     },
     "interior": {
-      "title": "Utastér átvizsgálás",
+      "title": "Utastér-átvizsgálás",
       "items": [
         "Ülések, kárpitok ellenőrzése",
         "Sérülések, karcolások átnézése",
@@ -77,18 +95,18 @@
         "Menettulajdonságok vizsgálata",
         "Motor, hajtás tesztelése",
         "Futómű, fékrendszer tesztelése",
-        "Menetciklus közben élő adatok ellenőrzése",
+        "Menetciklus közben: élő adatok ellenőrzése",
         "Működési rendellenességek kiszűrése"
       ]
     },
     "diagnostics": {
       "title": "Műszeres diagnosztika",
       "items": [
-        "Hibakód kiolvasás / hibatároló ellenőrzés",
+        "Hibakód-kiolvasás / hibatároló-ellenőrzés",
         "Legutolsó / kitörölt hibakódok vizsgálata",
         "Km futás ellenőrzése",
         "Élő adatok ellenőrzése",
-        "Nagyfeszültésgű akku értékek kiolvasása"
+        "Nagyfeszültségű akku értékek kiolvasása"
       ]
     },
     "documentation": {
@@ -96,16 +114,16 @@
       "items": [
         "Átvizsgálás összegzése",
         "Képek, videók készítése a járműről",
-        "Esetleges hibák ismertetése a vevőnek",
+        "Esetleges hibák ismertetése a vevővel",
         "Alkuban való vevői képviselet",
-        "Adásvételben teljes segítségnyújtás"
+        "Segítségnyújtás a teljes adásvételben"
       ]
     }
   },
   "pricing": {
     "title": "Árak",
     "inspection": {
-      "title": "Gépjármű állapotfelmérés",
+      "title": "Gépjármű-állapotfelmérés",
       "local": "Győrben",
       "localPrice": "29.000 Ft / autó",
       "remote": "Eltérő helyszínen",
@@ -117,26 +135,26 @@
       "title": "Vásárlás előtti tanácsadás",
       "subtitle": "Igényektől függően",
       "price": "11.990 – 14.990 Ft",
-      "note": "Akár több járműre, alkalomra vonatkozólag.\nHa idővel meggondolod magad a típussal kapcsolatban, nem kerül újabb összeg felszámításra, javaslok másik modellt."
+      "note": "Akár több járműre, alkalomra vonatkozólag.\nHa idővel meggondolod magad a típussal kapcsolatban, nem számítok fel újabb összeget, javaslok másik modellt."
     },
     "search": {
-      "title": "Autó keresés, kínálat figyelése",
+      "title": "Autókeresés, kínálat figyelése",
       "subtitle": "Egyszeri összeg",
       "price": "19.990 Ft",
-      "note": "Akár több járműre vonatkozólag.\nEgészen addig szól, amíg nem kerül megvételre egy kinézett jármű, ha egy hét, ha több hónap is."
+      "note": "Akár több járműre vonatkozólag.\nEgészen addig szól, amíg nem vásárolod meg a kinézett járművet, akár néhány nap, de több hét vagy hónap is lehet."
     },
     "bundle": {
       "title": "Teljes körű csomag",
-      "subtitle": "Tanácsadás + Kínálatfigyelés",
+      "subtitle": "Tanácsadás & kínálatfigyelés",
       "includes": "Tartalmazza",
       "item1": "Vásárlás előtti tanácsadás",
-      "item2": "Autó keresés, kínálat figyelése",
-      "originalPrice": "31.980–34.980 Ft",
+      "item2": "Autókeresés, kínálat figyelése",
+      "originalPrice": "31.980 – 34.980 Ft",
       "price": "24.990 Ft",
       "save": "Spórolj akár 10.000 Ft-ot!",
       "note": "A két szolgáltatás együttes igénybevétele esetén kedvezményes, egységes áron."
     },
-    "customOffer": "Amennyiben nem találtad meg a neked kedvező csomagot, egyedi ajánlatért kérlek vedd fel velem a kapcsolatot."
+    "customOffer": "Ha nem találtad meg a neked kedvező csomagot, egyedi ajánlatért kérlek, vedd fel velem a kapcsolatot!"
   },
   "about": {
     "title": "És ki az a Palicar?",
@@ -144,9 +162,9 @@
     "galleryTitle": "Galéria",
     "bio1": "Barla-Szabó Dániel vagyok, autóvásárlási szakértő és kalibrációs mérnök.",
     "bio2": "Gyermekkorom óta szenvedélyem a járművek és azok technikai megoldásai. Szabadidőmet hobbiautóm fejlesztésével és a versenypályán töltöm.",
-    "bio3": "A gépész technikusi vizsgát követően a Széchenyi István Egyetemen folytattam tanulmányaimat járműmérnökként, ahol alapdiplomámat belsőégésű motorok-, míg mesterdiplomámat villamos járműhajtások szakirányon szereztem. Ennek köszönhetően jelentős, naprakész technikai tudással rendelkezem mind a hagyományos belsőégésű motorok, mind pedig az elektromos járművek terén is.",
-    "bio4": "Mélyreható ismeretekkel rendelkezem járművek műszaki megoldásaiban, azok komplex megértésében és problémáik feltárásában, mely elengedhetetlen az autóátvizsgálás során.",
-    "bio5": "Öt éve az autóiparban dolgozva széles körű tapasztalatra tettem szert az autóipari trendekről, gyártók sajátosságairól és ezek kockázatairól.",
+    "bio3": "A gépésztechnikusi vizsgát követően a Széchenyi István Egyetemen folytattam a tanulmányaimat járműmérnökként, ahol alapdiplomámat belsőégésű motorok-, míg mesterdiplomámat villamos járműhajtások szakirányon szereztem. Ennek köszönhetően jelentős, naprakész technikai tudással rendelkezem, mind a hagyományos belsőégésű motorok, mind pedig az elektromos járművek terén is.",
+    "bio4": "Mélyreható ismeretekkel rendelkezem a járművek műszaki megoldásaiban, azok komplex megértésében és problémáik feltárásában, mely elengedhetetlen az autóátvizsgálás során.",
+    "bio5": "2021 óta az autóiparban dolgozom, széleskörű tapasztalatra tettem szert az autóipari trendekről, a gyártók sajátosságairól és ezek kockázatairól.",
     "shortBio": "Barla-Szabó Dániel vagyok, autóvásárlási szakértő.\nGyermekkorom óta szenvedélyem a járművek és azok technikai megoldásai. Szabadidőmet hobbiautóm fejlesztésével és versenypályán töltöm.\nOkleveles járműmérnökként jelentős ismerettel rendelkezem a járművek műszaki megoldásaiban és azok komplex megértésében. Tanulmányaimat a Széchenyi István Egyetemen végeztem, ahol mind a belsőégésű és elektromos autók szakértelmét elsajátítottam.\nÖt éve, illetve jelenleg is az autóiparban dolgozva széles körű tapasztalatra tettem szert az autóipari trendekről, gyártók sajátosságairól és ezek kockázatairól.",
     "readMore": "Rólam"
   },
@@ -158,9 +176,9 @@
     "phone": "+36 70/977-1360",
     "email": "barla.dani@gmail.com",
     "hoursTitle": "Elérhetőség",
-    "weekdays": "Hétfő – Péntek",
+    "weekdays": "Hétfő-péntek",
     "weekdayHours": "9:00 – 20:00",
-    "weekends": "Szombat – Vasárnap",
+    "weekends": "Szombat-vasárnap",
     "weekendHours": "10:00 – 20:00",
     "mapLink": "Útvonaltervezés",
     "formTitle": "Írj nekem!",
@@ -171,7 +189,7 @@
     "formNote": "Az üzenet az e-mail klienseden keresztül kerül elküldésre."
   },
   "footer": {
-    "tagline": "Helyszíni autóátvizsgálás, állapotfelmérés és autóvásárlási tanácsadás, teljes autóvétel mentén segítségnyújtás.",
+    "tagline": "Helyszíni autóátvizsgálás, állapotfelmérés és autóvásárlási tanácsadás; segítségnyújtás a teljes autóvételi folyamatban.",
     "rights": "Minden jog fenntartva."
   },
   "theme": {
