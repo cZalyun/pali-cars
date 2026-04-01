@@ -19,6 +19,7 @@
         "description": "Flexible Zustandsbewertung vor Ort."
       },
       "search": {
+        "title": "Autosuche & Angebotsüberwachung",
         "description": "Wenn du noch nicht weißt oder nicht sicher bist, was du kaufen möchtest. Marken- und Modellberatung aus Expertensicht."
       },
       "consulting": {
@@ -26,6 +27,7 @@
       }
     },
     "aboutTeaser": {
+      "title": "Über mich",
       "shortBio": "Ich bin Dániel Barla-Szabó, Autokauf-Experte.\nSeit meiner Kindheit begeistern mich Fahrzeuge und ihre technischen Lösungen. Meine Freizeit verbringe ich mit der Entwicklung meines Hobbyautos und auf der Rennstrecke.\nAls diplomierter Fahrzeugingenieur verfüge ich über fundierte Kenntnisse in der Fahrzeugtechnik und deren komplexem Verständnis. Mein Studium absolvierte ich an der Széchenyi István Universität, wo ich Expertise in Verbrennungsmotoren und Elektrofahrzeugen erwarb.\nSeit 2021 arbeite ich in der Automobilindustrie und habe umfangreiche Erfahrungen mit Automobiltrends, Herstellerspezifika und deren Risiken gesammelt."
     }
   },

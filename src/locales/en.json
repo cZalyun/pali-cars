@@ -19,6 +19,7 @@
         "description": "Flexible on-location condition assessment."
       },
       "search": {
+        "title": "Car Search & Listing Monitoring",
         "description": "If you don't know yet, or aren't sure what you want to buy. Brand and model consulting from an expert perspective."
       },
       "consulting": {
@@ -26,6 +27,7 @@
       }
     },
     "aboutTeaser": {
+      "title": "About Me",
       "shortBio": "I'm Dániel Barla-Szabó, a car purchase expert.\nI've been passionate about vehicles and their technical solutions since childhood. I spend my free time developing my hobby car and on the race track.\nAs a certified vehicle engineer, I have significant knowledge of vehicle technical solutions and their complex understanding. I completed my studies at Széchenyi István University, mastering expertise in both combustion and electric vehicles.\nSince 2021 I've been working in the automotive industry, gaining extensive experience in automotive trends, manufacturer specifics, and their associated risks."
     }
   },
