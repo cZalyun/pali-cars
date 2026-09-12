@@ -154,6 +154,7 @@
       "save": "Save up to 15,000 HUF!",
       "note": "Discounted flat rate when booking both services together."
     },
+    "cancellationNote": "If the client cancels the service within 24 hours, 70% of the inspection fee will be charged.",
     "customOffer": "If you haven't found a package that suits you, please get in touch for a custom offer."
   },
   "about": {

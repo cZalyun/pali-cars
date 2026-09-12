@@ -154,6 +154,7 @@
       "save": "Spórolj akár 15.000 Ft-ot!",
       "note": "A két szolgáltatás együttes igénybevétele esetén kedvezményes, egységes áron."
     },
+    "cancellationNote": "A szolgáltatás 24 órán belüli, megrendelő általi lemondása esetén az átvizsgálási díj 70%-a kerül felszámolásra.",
     "customOffer": "Ha nem találtad meg a neked kedvező csomagot, egyedi ajánlatért kérlek, vedd fel velem a kapcsolatot!"
   },
   "about": {
