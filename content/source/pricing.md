@@ -10,9 +10,11 @@
 
 **Note:** Adott alkalommal több jármű átvizsgálása esetén kedvezményes díj, egyéni árazással.
 
+**Cancellation:** A szolgáltatás 24 órán belüli, megrendelő általi lemondása esetén az átvizsgálási díj 70%-a kerül felszámolásra.
+
 ## Tier 2: Vásárlás előtti tanácsadás
 
-### Fix ár
+### Egyszeri összeg
 **Price:** 19.990 Ft
 
 **Note:** Akár több járműre, alkalomra vonatkozólag.
@@ -36,10 +38,6 @@ Egészen addig szól, amíg nem vásárolod meg a kinézett járművet, akár n�
 - Autókeresés, kínálat figyelése
 
 **Note:** A két szolgáltatás együttes igénybevétele esetén kedvezményes, egységes áron.
-
-## Lemondási feltétel
-
-A szolgáltatás 24 órán belüli, megrendelő általi lemondása esetén az átvizsgálási díj 70%-a kerül felszámolásra.
 
 ## Egyedi ajánlat
 
