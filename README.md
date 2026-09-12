@@ -2,7 +2,7 @@
 
 Modern, responsive website for **Palicar** — independent used car inspection and consulting service based in Győr, Hungary.
 
-🔗 **Live site**: [https://czalyun.github.io/pali-cars/](https://czalyun.github.io/pali-cars/)
+🔗 **Live site**: [https://palicars.com/](https://palicars.com/)
 
 ---
 
@@ -81,11 +81,11 @@ npm run typecheck
 
 | Route | Page |
 |---|---|
-| `/#/` | Home – Hero, services overview, about teaser, CTA |
-| `/#/services` | Services – 6 detailed inspection categories, consulting, car search |
-| `/#/pricing` | Pricing – 4 tiers with details |
-| `/#/about` | About – Full bio, work gallery |
-| `/#/contact` | Contact – Info, map, mailto form |
+| `/` | Home – Hero, services overview, about teaser, CTA |
+| `/services` | Services – 6 detailed inspection categories, consulting, car search |
+| `/pricing` | Pricing – 4 tiers with details |
+| `/about` | About – Full bio, work gallery |
+| `/contact` | Contact – Info, map, mailto form |
 
 ## Deployment
 
@@ -99,7 +99,7 @@ Automated via **GitHub Actions** on every push to `main`/`master`:
 
 Workflow file: `.github/workflows/deploy.yml`
 
-Vite `base` is set to `/pali-cars/` for correct asset paths on GitHub Pages.
+Vite `base` is `/` — the site is served from the custom domain in `public/CNAME` (palicars.com), not from a GitHub Pages project subpath.
 
 ## Content Audit
 
