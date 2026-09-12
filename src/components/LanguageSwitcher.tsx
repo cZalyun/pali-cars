@@ -1,10 +1,13 @@
 import { useTranslation } from 'react-i18next';
 import { useState, useRef, useEffect } from 'react';
 
+// Each language is named in its own language. No flags: they are regional
+// indicator pairs with no glyph on Windows, which renders them as the country
+// letters instead, and a country flag is the wrong symbol for a language.
 const LANGUAGES = [
-  { code: 'hu', flag: '🇭🇺', label: 'Magyar' },
-  { code: 'de', flag: '🇩🇪', label: 'Deutsch' },
-  { code: 'en', flag: '🇬🇧', label: 'English' },
+  { code: 'hu', label: 'Magyar' },
+  { code: 'de', label: 'Deutsch' },
+  { code: 'en', label: 'English' },
 ] as const;
 
 export function LanguageSwitcher() {
@@ -32,8 +35,7 @@ export function LanguageSwitcher() {
         aria-expanded={open}
         className="flex h-9 items-center gap-1.5 rounded-lg border border-(--border) bg-(--surface-card) px-2.5 text-sm font-medium text-(--text) transition-colors hover:bg-primary-100 dark:hover:bg-primary-800"
       >
-        <span>{current.flag}</span>
-        <span className="hidden sm:inline">{current.code.toUpperCase()}</span>
+        <span>{current.code.toUpperCase()}</span>
         <svg className={`h-3.5 w-3.5 transition-transform ${open ? 'rotate-180' : ''}`} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.5} strokeLinecap="round" strokeLinejoin="round">
           <polyline points="6 9 12 15 18 9" />
         </svg>
@@ -52,8 +54,7 @@ export function LanguageSwitcher() {
                 lang.code === i18n.language ? 'font-semibold text-primary-600 dark:text-primary-300' : 'text-(--text)'
               }`}
             >
-              <span>{lang.flag}</span>
-              <span>{lang.label}</span>
+              {lang.label}
             </button>
           ))}
         </div>
