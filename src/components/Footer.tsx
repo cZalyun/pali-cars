@@ -38,7 +38,7 @@ export function Footer() {
               <p>{t('contact.address')}</p>
               <p>{t('contact.country')}</p>
               <p>
-                <a href={`tel:${t('contact.phone').replace(/[/\s]/g, '')}`} className="transition-colors hover:text-primary-600 dark:hover:text-primary-300">
+                <a href={`tel:${t('contact.phone').replace(/[/\s-]/g, '')}`} className="transition-colors hover:text-primary-600 dark:hover:text-primary-300">
                   {t('contact.phone')}
                 </a>
               </p>

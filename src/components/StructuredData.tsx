@@ -6,7 +6,7 @@ export function StructuredData() {
     description:
       'Független használtautó átvizsgálás és szaktanácsadás Győrben és országosan',
     url: 'https://palicars.com/',
-    telephone: '+3670977-1360',
+    telephone: '+36309428112',
     email: 'barla.dani@gmail.com',
     address: {
       '@type': 'PostalAddress',

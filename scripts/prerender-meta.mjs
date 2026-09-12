@@ -60,7 +60,7 @@ const PAGES = [
     outFile: 'contact/index.html',
     title: 'Kapcsolat \u2013 Palicar | Aut\u00f3\u00e1tvizsg\u00e1l\u00e1s Gy\u0151r',
     description:
-      'Vedd fel a kapcsolatot Palicar szak\u00e9rt\u0151j\u00e9vel! 9022 Gy\u0151r, Dunakapu t\u00e9r. Tel: +36\u00a070/977-1360. H\u00e9tf\u0151\u2013P\u00e9ntek: 9\u201320h, H\u00e9tv\u00e9ge: 10\u201320h.',
+      'Vedd fel a kapcsolatot Palicar szak\u00e9rt\u0151j\u00e9vel! 9022 Gy\u0151r, Dunakapu t\u00e9r. Tel: +36\u00a030/942-8112. H\u00e9tf\u0151\u2013P\u00e9ntek: 9\u201320h, H\u00e9tv\u00e9ge: 10\u201320h.',
     ogImage: `${SITE}/images/hero-inspection.jpg`,
   },
 ];

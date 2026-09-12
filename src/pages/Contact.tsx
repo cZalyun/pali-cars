@@ -89,7 +89,7 @@ export function Contact() {
                 </div>
                 <div className="pt-0.5">
                   <a
-                    href={`tel:${t('contact.phone').replace(/[/\s]/g, '')}`}
+                    href={`tel:${t('contact.phone').replace(/[/\s-]/g, '')}`}
                     className="font-medium transition-colors hover:text-primary-600 dark:hover:text-primary-300"
                   >
                     {t('contact.phone')}
