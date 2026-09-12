@@ -127,20 +127,20 @@
       "local": "In Győr",
       "localPrice": "29,000 HUF / car",
       "remote": "At a different location",
-      "remotePrice": "+105 HUF/km",
+      "remotePrice": "+115 HUF/km",
       "remoteBothWays": "both ways",
       "note": "Discounted rates available for multiple vehicle inspections on the same occasion, with individual pricing."
     },
     "consulting": {
       "title": "Pre-Purchase Consulting",
-      "subtitle": "Depending on needs",
-      "price": "11,990–14,990 HUF",
+      "subtitle": "Fixed price",
+      "price": "19,990 HUF",
       "note": "Applicable to multiple vehicles and occasions.\nIf you change your mind about the model, there's no additional charge — I'll recommend another one."
     },
     "search": {
       "title": "Car Search & Listing Monitoring",
       "subtitle": "One-time fee",
-      "price": "23,990 HUF",
+      "price": "29,990 HUF",
       "note": "Applicable to multiple vehicles.\nValid until a chosen vehicle is purchased, whether it takes a week or several months."
     },
     "bundle": {
@@ -149,9 +149,9 @@
       "includes": "Includes",
       "item1": "Pre-Purchase Consulting",
       "item2": "Car Search & Listing Monitoring",
-      "originalPrice": "35,980–38,980 HUF",
-      "price": "28,990 HUF",
-      "save": "Save up to 10,000 HUF!",
+      "originalPrice": "49,980 HUF",
+      "price": "34,990 HUF",
+      "save": "Save up to 15,000 HUF!",
       "note": "Discounted flat rate when booking both services together."
     },
     "customOffer": "If you haven't found a package that suits you, please get in touch for a custom offer."

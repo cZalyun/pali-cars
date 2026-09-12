@@ -33,7 +33,7 @@ export const PAGE_SEO: Record<string, PageSeoConfig> = {
   '/pricing': {
     title: '\u00c1rak \u2013 Palicar | Aut\u00f3\u00e1tvizsg\u00e1l\u00e1s \u00e1rak Gy\u0151r',
     description:
-      'Aut\u00f3\u00e1tvizsg\u00e1l\u00e1s Gy\u0151rben 29\u00a0000\u00a0Ft-t\u00f3l. Tan\u00e1csad\u00e1s 11\u00a0990\u00a0Ft-t\u00f3l. Csomag aj\u00e1nlat 19\u00a0990\u00a0Ft-t\u00f3l. \u00c1tl\u00e1that\u00f3, fix \u00e1rak, rejtett k\u00f6lts\u00e9gek n\u00e9lk\u00fcl.',
+      'Aut\u00f3\u00e1tvizsg\u00e1l\u00e1s Gy\u0151rben 29\u00a0000\u00a0Ft-t\u00f3l. Tan\u00e1csad\u00e1s 19\u00a0990\u00a0Ft. Csomag aj\u00e1nlat 34\u00a0990\u00a0Ft. \u00c1tl\u00e1that\u00f3, fix \u00e1rak, rejtett k\u00f6lts\u00e9gek n\u00e9lk\u00fcl.',
     ogImage: `${SITE_BASE_URL}/images/logo-square.png`,
     ogType: 'website',
     canonicalPath: '/pricing',

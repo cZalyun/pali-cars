@@ -127,20 +127,20 @@
       "local": "In Győr",
       "localPrice": "29.000 HUF / Auto",
       "remote": "An einem anderen Standort",
-      "remotePrice": "+105 HUF/km",
+      "remotePrice": "+115 HUF/km",
       "remoteBothWays": "hin und zurück",
       "note": "Ermäßigte Preise bei mehreren Fahrzeuginspektionen zum gleichen Anlass, mit individueller Preisgestaltung."
     },
     "consulting": {
       "title": "Kaufberatung",
-      "subtitle": "Je nach Bedarf",
-      "price": "11.990–14.990 HUF",
+      "subtitle": "Festpreis",
+      "price": "19.990 HUF",
       "note": "Gilt für mehrere Fahrzeuge und Anlässe.\nWenn du dich bezüglich des Modells umentscheidest, fallen keine zusätzlichen Kosten an — ich empfehle ein anderes."
     },
     "search": {
       "title": "Autosuche & Angebotsüberwachung",
       "subtitle": "Einmaliger Betrag",
-      "price": "23.990 HUF",
+      "price": "29.990 HUF",
       "note": "Gilt für mehrere Fahrzeuge.\nGültig bis ein ausgewähltes Fahrzeug gekauft wird, ob es eine Woche oder mehrere Monate dauert."
     },
     "bundle": {
@@ -149,9 +149,9 @@
       "includes": "Beinhaltet",
       "item1": "Kaufberatung",
       "item2": "Autosuche & Angebotsüberwachung",
-      "originalPrice": "35.980–38.980 HUF",
-      "price": "28.990 HUF",
-      "save": "Spare bis zu 10.000 HUF!",
+      "originalPrice": "49.980 HUF",
+      "price": "34.990 HUF",
+      "save": "Spare bis zu 15.000 HUF!",
       "note": "Vergünstigter Pauschalpreis bei gemeinsamer Buchung beider Leistungen."
     },
     "customOffer": "Wenn du kein für dich passendes Paket gefunden hast, kontaktiere mich bitte für ein individuelles Angebot."

@@ -127,20 +127,20 @@
       "local": "Győrben",
       "localPrice": "29.000 Ft / autó",
       "remote": "Eltérő helyszínen",
-      "remotePrice": "+105 Ft/km",
+      "remotePrice": "+115 Ft/km",
       "remoteBothWays": "oda-vissza",
       "note": "Adott alkalommal több jármű átvizsgálása esetén kedvezményes díj, egyéni árazással."
     },
     "consulting": {
       "title": "Vásárlás előtti tanácsadás",
-      "subtitle": "Igényektől függően",
-      "price": "11.990 – 14.990 Ft",
+      "subtitle": "Fix ár",
+      "price": "19.990 Ft",
       "note": "Akár több járműre, alkalomra vonatkozólag.\nHa idővel meggondolod magad a típussal kapcsolatban, nem számítok fel újabb összeget, javaslok másik modellt."
     },
     "search": {
       "title": "Autókeresés, kínálat figyelése",
       "subtitle": "Egyszeri összeg",
-      "price": "23.990 Ft",
+      "price": "29.990 Ft",
       "note": "Akár több járműre vonatkozólag.\nEgészen addig szól, amíg nem vásárolod meg a kinézett járművet, akár néhány nap, de több hét vagy hónap is lehet."
     },
     "bundle": {
@@ -149,9 +149,9 @@
       "includes": "Tartalmazza",
       "item1": "Vásárlás előtti tanácsadás",
       "item2": "Autókeresés, kínálat figyelése",
-      "originalPrice": "35.980 – 38.980 Ft",
-      "price": "28.990 Ft",
-      "save": "Spórolj akár 10.000 Ft-ot!",
+      "originalPrice": "49.980 Ft",
+      "price": "34.990 Ft",
+      "save": "Spórolj akár 15.000 Ft-ot!",
       "note": "A két szolgáltatás együttes igénybevétele esetén kedvezményes, egységes áron."
     },
     "customOffer": "Ha nem találtad meg a neked kedvező csomagot, egyedi ajánlatért kérlek, vedd fel velem a kapcsolatot!"
