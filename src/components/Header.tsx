@@ -26,16 +26,16 @@ export function Header() {
           <img
             src={`${BASE}images/logo.png`}
             alt="Palicar"
-            className="h-9 dark:hidden"
-            width={120}
-            height={36}
+            className="h-9 w-auto dark:hidden"
+            width={424}
+            height={144}
           />
           <img
             src={`${BASE}images/logo-dark.png`}
             alt="Palicar"
-            className="hidden h-9 dark:block"
-            width={120}
-            height={36}
+            className="hidden h-9 w-auto dark:block"
+            width={424}
+            height={144}
           />
         </Link>
 

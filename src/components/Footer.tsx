@@ -14,16 +14,16 @@ export function Footer() {
             <img
               src={`${BASE}images/logo.png`}
               alt="Palicar"
-              className="mb-3 h-8 dark:hidden"
-              width={106}
-              height={32}
+              className="mb-3 h-8 w-auto dark:hidden"
+              width={424}
+              height={144}
             />
             <img
               src={`${BASE}images/logo-dark.png`}
               alt="Palicar"
-              className="mb-3 hidden h-8 dark:block"
-              width={106}
-              height={32}
+              className="mb-3 hidden h-8 w-auto dark:block"
+              width={424}
+              height={144}
             />
             <p className="text-sm text-(--text-muted)">
               {t('footer.tagline')}
