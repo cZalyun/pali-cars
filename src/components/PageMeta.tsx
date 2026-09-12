@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
-import { getPageSeo, SITE_BASE_URL } from '../seo';
+import { getPageSeo } from '../seo';
+import { SITE_BASE_URL, SITE_NAME } from '../siteData';
 
 function upsertMeta(attr: 'name' | 'property', value: string, content: string) {
   let el = document.querySelector<HTMLMetaElement>(`meta[${attr}="${value}"]`);
@@ -38,7 +39,7 @@ export function PageMeta() {
     upsertMeta('property', 'og:url', canonicalUrl);
     upsertMeta('property', 'og:type', seo.ogType);
     upsertMeta('property', 'og:image', seo.ogImage);
-    upsertMeta('property', 'og:site_name', 'Palicar');
+    upsertMeta('property', 'og:site_name', SITE_NAME);
 
     upsertMeta('name', 'twitter:card', 'summary_large_image');
     upsertMeta('name', 'twitter:title', seo.title);

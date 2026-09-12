@@ -1,0 +1,42 @@
+{
+  "siteBaseUrl": "https://palicars.com",
+  "siteName": "Palicar",
+  "google": {
+    "rating": "5.0",
+    "reviewCount": 55
+  },
+  "defaultOgImage": "/images/og-default.png",
+  "logoImage": "/images/logo-1200.png",
+  "pages": [
+    {
+      "route": "/",
+      "title": "Palicar – Független használtautó átvizsgálás Győr",
+      "description": "Független használtautó átvizsgálás és szaktanácsadás Győrben és országosan. ★ {rating} Google értékelés, {reviewCount} vélemény.",
+      "ogImage": "/images/og-home.jpg"
+    },
+    {
+      "route": "/services",
+      "title": "Szolgáltatások – Palicar | Autóátvizsgálás, tanácsadás, autókeresés",
+      "description": "Helyszíni autóátvizsgálás, vásárlás előtti tanácsadás és autókeresés Győrben és vidéken. Profizionális gépjármű állapotfelmérés szakértőtől.",
+      "ogImage": "/images/og-services.jpg"
+    },
+    {
+      "route": "/pricing",
+      "title": "Árak – Palicar | Autóátvizsgálás árak Győr",
+      "description": "Autóátvizsgálás Győrben 29\u00a0000\u00a0Ft-tól. Tanácsadás 19\u00a0990\u00a0Ft. Csomag ajánlat 34\u00a0990\u00a0Ft. Átlátható, fix árak, rejtett költségek nélkül.",
+      "ogImage": "/images/og-default.png"
+    },
+    {
+      "route": "/about",
+      "title": "Rólam – Barla-Szabó Dániel | Palicar autóátvizsgálás",
+      "description": "Okleveles járműmérnök és autóvásárlási szakértő Győrből. 5 éves autóipari tapasztalat. Belsőégésű és elektromos járművek szakértője.",
+      "ogImage": "/images/og-about.jpg"
+    },
+    {
+      "route": "/contact",
+      "title": "Kapcsolat – Palicar | Autóátvizsgálás Győr",
+      "description": "Vedd fel a kapcsolatot Palicar szakértőjével! 9022 Győr, Dunakapu tér. Tel: +36\u00a030/942-8112. Hétfő–Péntek: 9–20h, Hétvége: 10–20h.",
+      "ogImage": "/images/og-home.jpg"
+    }
+  ]
+}

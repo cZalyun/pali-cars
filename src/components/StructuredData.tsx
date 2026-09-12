@@ -1,11 +1,20 @@
+import {
+  SITE_NAME,
+  SITE_BASE_URL,
+  GOOGLE_RATING,
+  GOOGLE_REVIEW_COUNT,
+  LOGO_IMAGE,
+  absoluteUrl,
+} from '../siteData';
+
 export function StructuredData() {
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'LocalBusiness',
-    name: 'Palicar',
+    name: SITE_NAME,
     description:
       'Független használtautó átvizsgálás és szaktanácsadás Győrben és országosan',
-    url: 'https://palicars.com/',
+    url: `${SITE_BASE_URL}/`,
     telephone: '+36309428112',
     email: 'barla.dani@gmail.com',
     address: {
@@ -31,10 +40,10 @@ export function StructuredData() {
     ],
     aggregateRating: {
       '@type': 'AggregateRating',
-      ratingValue: '5.0',
-      reviewCount: '55',
+      ratingValue: GOOGLE_RATING,
+      reviewCount: String(GOOGLE_REVIEW_COUNT),
     },
-    image: 'https://palicars.com/images/logo-square.png',
+    image: absoluteUrl(LOGO_IMAGE),
   };
 
   return (
