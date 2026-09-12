@@ -83,7 +83,7 @@ npm run typecheck
 |---|---|
 | `/#/` | Home – Hero, services overview, about teaser, CTA |
 | `/#/services` | Services – 6 detailed inspection categories, consulting, car search |
-| `/#/pricing` | Pricing – 3 tiers with details |
+| `/#/pricing` | Pricing – 4 tiers with details |
 | `/#/about` | About – Full bio, work gallery |
 | `/#/contact` | Contact – Info, map, mailto form |
 
@@ -106,13 +106,13 @@ Vite `base` is set to `/pali-cars/` for correct asset paths on GitHub Pages.
 All text and data from [palicars.com](https://palicars.com/) has been migrated, including:
 - Home page hero, service summaries, about teaser
 - Full services page (6 inspection categories + consulting + car search)
-- Complete pricing (3 tiers with notes)
+- Complete pricing (4 tiers with notes)
 - Full about/bio page
 - Contact information (address, phone, email, hours)
 - Footer content
 
 Additional data from Google Business Profile:
-- 5.0★ rating (22 reviews) — displayed as trust badge
+- 5.0★ rating (55 reviews) — displayed as trust badge
 - Business category confirmation
 
 ### Source files (auditable)

@@ -34,7 +34,7 @@ Helyszíni autóátvizsgálás, állapotfelmérés és autóvásárlási tanács
 
 ### Elérhetőségek
 - 9022 Győr, Dunakapu tér, Magyarország
-- +36 70/977-1360
+- +36 30/942-8112
 - Email: barla.dani@gmail.com
 - H-P: 8:00 – 20:00
 - SZ-V: 10:00 – 20:00
