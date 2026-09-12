@@ -1,7 +1,7 @@
 {
   "source": "Google Business Profile - screenshot provided by owner (Feb 2026)",
   "url": "https://share.google/s3N6fO12eUGV71NqB",
-  "note": "URL redirects through Google consent; data extracted from owner-provided screenshot. Phone and reviewCount updated by the owner on 2026-09-12, superseding the Feb 2026 screenshot values (phone +36 70 977 1360, 22 reviews); rating, address and hours are still as captured then",
+  "note": "URL redirects through Google consent; data extracted from owner-provided screenshot. Phone and reviewCount updated by the owner on 2026-09-12, superseding the Feb 2026 screenshot values (phone +36 70 977 1360, 22 reviews, weekday hours 8:00-20:00); rating and address are still as captured then. Weekday opening corrected to 9:00 to match the published site - the Google Business Profile itself still needs updating by the owner",
   "data": {
     "name": "Palicar",
     "rating": 5.0,
@@ -16,7 +16,7 @@
     "phone": "+36 30 942 8112",
     "phoneLocal": "06 30 942 8112",
     "hours": {
-      "mondayToFriday": "8:00 – 20:00",
+      "mondayToFriday": "9:00 – 20:00",
       "saturdaySunday": "10:00 – 20:00"
     },
     "mapLocation": "Near Bástya u. / Apáca u. intersection, Győr",

@@ -7,7 +7,7 @@
 - **Address:** 9022 Győr, Dunakapu tér, Magyarország
 - **Phone:** +36 30/942-8112
 - **Email:** barla.dani@gmail.com
-- **Hours Monday-Friday:** 8:00 – 20:00
+- **Hours Monday-Friday:** 9:00 – 20:00
 - **Hours Saturday-Sunday:** 10:00 – 20:00
 
 ## Google Business Data (extracted from screenshot)
