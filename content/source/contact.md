@@ -13,7 +13,7 @@
 ## Google Business Data (extracted from screenshot)
 
 - **Google Rating:** 5.0 / 5.0
-- **Review Count:** 55 reviews
+- **Review Count:** 65 reviews
 - **Category:** Auto broker in Győr
 - **Phone (local format):** 06 30 942 8112
 - **Address:** Győr, Dunakapu tér, 9022

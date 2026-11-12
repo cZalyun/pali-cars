@@ -112,7 +112,7 @@ All text and data from [palicars.com](https://palicars.com/) has been migrated, 
 - Footer content
 
 Additional data from Google Business Profile:
-- 5.0★ rating (55 reviews) — displayed as trust badge
+- 5.0★ rating (65 reviews) — displayed as trust badge
 - Business category confirmation
 
 ### Source files (auditable)
